@@ -1,0 +1,1604 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rocke, or, A setled heart in unsetled times a short discourse minding and helping Gods people to make use of their faith for moderating their feares in these sad times of the sorrowes of Sion : being the heads of some sermons preached lately and now published for that purpose / by William Jemmat ...</title>
+            <author>Jemmat, William, 1596?-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46744</idno>
+            <idno type="STC">Wing J551</idno>
+            <idno type="STC">ESTC R19664</idno>
+            <idno type="EEBO-CITATION">12172672</idno>
+            <idno type="OCLC">ocm 12172672</idno>
+            <idno type="VID">55467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 108:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rocke, or, A setled heart in unsetled times a short discourse minding and helping Gods people to make use of their faith for moderating their feares in these sad times of the sorrowes of Sion : being the heads of some sermons preached lately and now published for that purpose / by William Jemmat ...</title>
+                  <author>Jemmat, William, 1596?-1678.</author>
+               </titleStmt>
+               <extent>[10], 83 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Enderby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55467:1"/>
+            <pb facs="tcp:55467:1"/>
+            <p>THE ROCKE: OR <hi>A ſetled heart in unſetled times.</hi>
+            </p>
+            <p>A ſhort Diſcourſe, minding and helping Gods People to make uſe of their Faith for modera<g ref="char:EOLhyphen"/>ting their Feares in theſe ſad times of the ſorrowes of SION.</p>
+            <p>Being the heads of ſome Sermons, Preached lately, and now publiſhed for that purpoſe.</p>
+            <p>
+               <hi>By</hi> William Jemmat, <hi>Pastor of</hi> Ne<g ref="char:EOLhyphen"/>tleſted, in the County of Kent.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 57.1.</hi>
+               </bibl>
+               <p>Be mercifull unto me O God, be mercifull unto me, for my ſoule truſteth in thee: yea, in the ſhadow of thy wings will I make my refuge, untill theſe calamities be overpaſt.</p>
+            </q>
+            <p>
+               <hi>London</hi> printed for <hi>Samuel Enderby,</hi> and are to be ſold at the Star in <hi>Popes-head-alley.</hi> 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55467:2"/>
+            <pb facs="tcp:55467:2"/>
+            <head>To the moſt Noble Patriot, and my moſt worthy Patron Sir <hi>Edward Scot</hi> of <hi>Scots-hall,</hi> Knight of the <hi>Bath;</hi> together with the Lady <hi>Mary Scot;</hi> his moſt wor<g ref="char:EOLhyphen"/>thy and religious Conſort: Grace, Mercy and Peace be mul<g ref="char:EOLhyphen"/>tiplyed in our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt.</head>
+            <p>SAd experience tel<g ref="char:EOLhyphen"/>leth even good Chri<g ref="char:EOLhyphen"/>ſtians, how weak their
+<pb facs="tcp:55467:3"/>
+owne ſpirits are in the ſore trials of theſe di<g ref="char:EOLhyphen"/>ſtracting times, even where their peace and comforts are continu<g ref="char:EOLhyphen"/>ed, before they are put to ſuffer as their bre<g ref="char:EOLhyphen"/>thren abroad do. Fears of evill threatned doe much diſquiet them, and too often ſuſpend their faith from doing the due and proper of<g ref="char:EOLhyphen"/>fice of it: So that they deſerve a check for
+<pb facs="tcp:55467:3"/>
+their unbeliefe, in the words of our Lord; <hi>Why are ye fearfull O ye of little faith?</hi> Mat. <hi>8.26.</hi> And yet becauſe they diſlike and ſtruggle with this unbeliefe, they deſerve pitty, and to be helped againſt it; which was the occaſion of theſe meditations at the firſt and now of publiſhing them.</p>
+            <p>And for this Dedi<g ref="char:EOLhyphen"/>cation 
+<pb facs="tcp:55467:4"/>
+of them to your worthy ſelves, the cauſe is apparant: Partly I would help forward your comfort in God, after all your activity and charge in the <hi>great Cauſe</hi> of God now in agitation. Partly I would make knowne your exempla<g ref="char:EOLhyphen"/>ry love to the work of God, <hi>both in times of peace,</hi> maintaining a Lecture at your owne
+<pb facs="tcp:55467:4"/>
+coſt, and ſpending much upon the poore, upon Ministers and others; <hi>and in theſe times of warre,</hi> exhausting your estate to buy Arms, Horſes, and proviſions of divers kinds for helping the Lord againſt the migh<g ref="char:EOLhyphen"/>ty; beſide your conti<g ref="char:EOLhyphen"/>nuall cares and coun<g ref="char:EOLhyphen"/>ſels for the publike, and for the peace of our County, which (a<g ref="char:EOLhyphen"/>mongst
+<pb facs="tcp:55467:5"/>
+other our Wor<g ref="char:EOLhyphen"/>thies) oweth much to your worſhip for the ſafety of it, and repel<g ref="char:EOLhyphen"/>ling of the enemy. Your <hi>Martiall Family</hi> hath gained much honour hereby among all godly and understanding Christians. And part<g ref="char:EOLhyphen"/>ly I would hereby tell the world, that to me and mine you have bin a moſt free and loving Patron, and was the
+<pb facs="tcp:55467:5"/>
+like to my Predeceſſor and his Family: The Lord returne into your boſome ſeven fold, add to your dayes abun<g ref="char:EOLhyphen"/>dantly, give you health take away or mittigate thoſe paines you are ſometimes ſubject un<g ref="char:EOLhyphen"/>to, ſtrengthen you in the inner man by his Spirit, fill you and yours with all heaven<g ref="char:EOLhyphen"/>ly graces and comforts, keepe you unblamable
+<pb facs="tcp:55467:6"/>
+to his Kingdome and glory, and give you (with us) to ſee the peace of Sion againe e<g ref="char:EOLhyphen"/>ſtabliſhed, with the utter diſappointment of all the enemies. Which are the daily prayers of</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May 26. 1644.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your worſhips much obliged</hi> William Jemmat.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:55467:6"/>
+            <head>A ſetled HEART in unſetled Times.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 112.7.</hi>
+                  </bibl>
+                  <p>He ſhall not be afraid of evill tidings, his heart is fixed, truſting in the Lord.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="section">
+               <head>Section I.</head>
+               <argument>
+                  <p>Whether, and how farre forth<g ref="char:punc">▪</g> she feares of evill may be ex<g ref="char:EOLhyphen"/>pelled from godly hearts in times of publike danger.</p>
+               </argument>
+               <p>THis Queſtion is occaſioned up<g ref="char:EOLhyphen"/>on reading the words of that Text, thus; What? no feare?<note place="margin">Expoſ. Faith and Feares, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> ſo
+<pb n="2" facs="tcp:55467:7"/>
+                  <hi>fixed?</hi> that you <hi>feare nothing?</hi> What if there be <hi>tidings</hi> of a great Army comming againſt you? What if ti<g ref="char:EOLhyphen"/>dings of great loſſes in your eſtate of Children miſcarrying, friend, deſtroyed, or the like? Hath any ſuch a faith, as that ſtill he will fear no evill tidings?</p>
+               <p>Whereto the Anſwer may be made in ſix things, and the Text withall expounded.</p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> I. Faith in the <hi>Eſſence</hi> of it, caſt<g ref="char:EOLhyphen"/>eth out all feare;<note place="margin">Eſſence and Exi<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce of Faith.</note> as is ſaid of love, the daughter of faith, 1 <hi>Joh.</hi> 4.18. <hi>perfect lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e easteth out feare.</hi> But our faith is not <hi>perfect;</hi> as there be frail<g ref="char:EOLhyphen"/>ties in our graces, ſo in our faith: We need ſtill to ſay,<note place="margin">Mar. 9.24. 1 Cor. 13.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>I beleeve, Lord help my unbeliefe:</hi> We know <hi>in part,</hi> and love in part, and beleeve in part, and all in part, till that per<g ref="char:EOLhyphen"/>fect come. This is faith in the <hi>exi<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce</hi> of it; in this or that Subject, this or that Beleever: If it were entire, it would render a man alto<g ref="char:EOLhyphen"/>gether fearleſſe. <hi>Adam</hi> in innocen<g ref="char:EOLhyphen"/>cy, by faith adhering to God per<g ref="char:EOLhyphen"/>fectly, had nothing to feare: And Chriſt, the ſecond <hi>Adam,</hi> beleeving
+<pb n="3" facs="tcp:55467:7"/>
+perfectly,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Mark 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.33.</note> feared no threats of the wicked, nor dangers: He <hi>feared</hi> in<g ref="char:EOLhyphen"/>deed at his Paſſion: but that was, partly becauſe he ſtood in our room, who by ſinne were brought into a condition of terrours, partly in re<g ref="char:EOLhyphen"/>ſpect of his Fathers wrath which muſt now be appeaſed: And I ſup<g ref="char:EOLunhyphen"/>poſe, in the day of judgement, be<g ref="char:EOLunhyphen"/>fore the Saints enter into Heaven, it will be by the perfection of their faith, that they feare none of thoſe terrours and amazements, 1 <hi>Joh.</hi> 4.17. <hi>Herein is our love made perfect, that we may have boldneſſe in the day of Judgement:</hi> Yea, there will be great joy, as in a day of refreſh<g ref="char:EOLhyphen"/>ment, a day of redemption, of the reſtoring of all things, of the Lambs Marriage, of the beſt good that e<g ref="char:EOLhyphen"/>ver the godly ſaw.</p>
+               <p n="2">II. Faith in the <hi>full and entire <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+acts</hi> of it, caſteth out all feare: that is, ſo long, and ſo farre forth as we truſt in the Lord; for that time we ſhall be unmovable and invincible, <hi>as mount Sion, Pſal.</hi> 125.1. though another while we be fearfull, and conflict with ſore doubtings:<note place="margin">Job 19.25</note> As <hi>Job</hi>
+                  <pb n="4" facs="tcp:55467:8"/>
+now confident, <hi>I know my Redeemer liveth,</hi> anon very much diſtempe<g ref="char:EOLhyphen"/>red; and <hi>David,</hi> one while will <hi>fear nothing,</hi>
+                  <note place="margin">Pſal. 24.4.</note> 
+                  <hi>though he walk in the midſt of the Valley of the ſhadow of death:</hi> and another while bewrayeth great infidelity,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 77.9.</note> 
+                  <hi>Will the Lord be no more gracious? &amp;c.</hi>
+               </p>
+               <p>The proper act of faith is, to cleave to the Lord without wave<g ref="char:EOLhyphen"/>ring or doubting. This led the Mar<g ref="char:EOLhyphen"/>tyrs through the priſons, and flames and extreameſt ſufferings. This we read of in <hi>Paul</hi> very much, 2 <hi>Tim.</hi> 1.12. <hi>I know whom I have beleeved;</hi> and <hi>Rom.</hi> 8.38. <hi>I am perſwaded, that neither death nor life—ſhall be able to ſeperate us from the love of God, which is in Chriſt Jeſus our Lord;</hi> and ſo it is in others, where <hi>the full aſſurance of faith</hi> is obtained, <hi>Heb.</hi> 10.22. and note the phraſe here; His heart is fixed, <hi>trusting in the Lord;</hi> or, in aſmuch as he truſteth in the Lord; or, ſo farre forth as he truſteth in the Lord; juſt the ſame forme of ſpeaking, as in 1 <hi>Tim.</hi> 4.8. <hi>Godlineſſe is profitable to all things, having the promiſe:</hi> that is, in aſmuch
+<pb n="5" facs="tcp:55467:8"/>
+as it hath the promiſe of the life that now is, and of that which is to come.</p>
+               <p>Now apply this to the former in<g ref="char:EOLhyphen"/>ſtances, of a great Army comming againſt us, or the like: Faith <hi>acted</hi> will ſay as David, <hi>Pſal</hi> 3.6. <hi>I will not be afraid of ten thouſands of people that have ſet themſelves againſt me round about:</hi> as <hi>Eliſha</hi> to his ſervant 2 <hi>Kings</hi> 6.16. <hi>Feare not, for they that be with us</hi> (two men onely) <hi>are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> then they that be with them:</hi> As <hi>Aſa,</hi> 2 <hi>Chron.</hi> 14.11. <hi>Lord it is nothing with thee to help, whether with many, or with them that have no power:</hi> As <hi>Je<g ref="char:EOLhyphen"/>hoſaphat, chap.</hi> 20.12. <hi>we ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e no might againſt this great company that commeth againſt us, neither know we what to doe, but our eyes are upon thee:</hi> Or as <hi>Moſes</hi> at the red Sea, <hi>Exod.</hi> 14.13. <hi>Feare ye not, ſtand ſtill, and ſee the ſalvation of the Lord which he will ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w to you to day.</hi>
+               </p>
+               <p>Againe, faith <hi>act<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> will ſay, God is able to make their <hi>hearts melt</hi> in them,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> even the ſtouteſt of the en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mies, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Canaanites: God can make them heare <hi>a noyſe in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi>
+                  <note place="margin">1 <hi>K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng</hi> 7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and be gone, as the Syrians; o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>a
+<pb n="6" facs="tcp:55467:9"/>
+rumour,</hi>
+                  <note place="margin">Iſa. 37.7.</note> as the Aſſyrians. God can ſet them to ſheathing their ſwords in the bowels one of another, as the <hi>Moabites,</hi>
+                  <note place="margin">2 Chron. 20.23.</note> 
+                  <hi>Ammonites</hi> and <hi>Edomites:</hi> He can <hi>ſend an evill spirit</hi> among them, to fall off one from another, as <hi>Abimelech</hi> and the men of <hi>Sechem:</hi>
+                  <note place="margin">Judg. 11.23.</note> Or he can <hi>bide</hi> us in the midſt of all the enemies, as he did <hi>Jeremie</hi> and <hi>Baruch.</hi>
+                  <note place="margin">Jer. 36.26</note> 
+                  <hi>It may be ye ſhall be hid in the day of wrath,</hi> Zeph. 2.3.</p>
+               <p>And if not, yet faith <hi>acted</hi> will ſay. We ſhall goe to Heaven ſo much the ſooner; and there it will be better for us, then if we had lived here an hundred yeers longer in the greateſt proſperity: <hi>After darkneſſe I ſhall ſee light;</hi> and, <hi>while I ſit in darkneſſe, the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſhall be a light unto me,</hi> Mic. 7.8.</p>
+               <p>So in any other inſtances; faith is <hi>the victory, wherein we overcome the world,</hi> 1 Joh. 5 4. And we ſee large and faire exemplifications of it, <hi>Heb.</hi> 11.33, 34, 35. <hi>Through faith they ſubdued Kingdome, wrought righteouſneſſe, obtained promiſes, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>p<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mouthes of Lyons, q<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, had the violence of fire, eſcaped th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:55467:9"/>
+the ſword, &amp;c.</hi> This is the luſtre and glory of faith, in the <hi>vigorous acts</hi> of it: <hi>Samſon</hi> was not more glorious in thoſe <hi>miraculous</hi> acts, of killing a Lyon, or laying the Philiſtims heap upon heap, then a Beleeever ſhall be, if faith be well brought into action.</p>
+               <p n="3">III. Faith when it admitteth of <milestone type="tcpmilestone" unit="unspecified" n="III"/> feares moſt, and is peſtered ſhrewd<g ref="char:EOLhyphen"/>ly, yet ſtrives to the contrary, and works them out by little and little. <hi>What time I am afraid, I will truſt in thee,</hi> Pſal. 56.3. and a Beleever chides away unbeliefe, as Pſal. 42.11. <hi>Why art thou caſt downe, O my ſoule? and why art thou diſquieted within me? hope thou in God; for I ſhall yet praiſe him, who is the health of my countenance, and my God.</hi> Un<g ref="char:EOLhyphen"/>beliefe is a great burden to a good ſoule, and makes it ſay with teares, <hi>Lord I beleeve,</hi>
+                  <note place="margin">Mar. 9.24</note> 
+                  <hi>help tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fe<g ref="char:punc">▪</g>
+                  </hi> Ah that I ſhould bewray ſuch weakneſſe, after ſo much acqu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<g ref="char:EOLunhyphen"/>tance with God! after ſo much ex<g ref="char:EOLhyphen"/>perience of his goodneſſe, after ſo much profeſſion to <hi>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leeve in God A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mighty, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:55467:10"/>
+O wretched man that I am,</hi>
+                  <note place="margin">Rom <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.24</note> 
+                  <hi>who ſhall deliver me from this body of death?</hi>
+               </p>
+               <p>And as faith groweth ſtronger, ſo theſe feares weare away by little and little. At lightſome times it is as bold as a Lyon, Prov. 28.1. <hi>The wicked the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> when no man purſueth: but the righteous are bold as a Lyon:</hi> and we are <hi>righteous by faith.</hi>
+               </p>
+               <p>All graces conflict with their con<g ref="char:EOLhyphen"/>traries; and ſo doth ſaith. The comfort is, it is ſure of victory in the end: Which is ſomething to ſtay and fix the heart, during the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me of the combat. Time ſhall be, that all theſe feares and firſt things ſhall paſſe away: We ſhall not ſo much as feare any enemies, of ſoule or body, or moleſtation by them.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> IV. There is a mixt conſiderati<g ref="char:EOLhyphen"/>on of the fears of a beleeving heart;<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in Sword<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> godly.</note>
+that it is rather an <hi>holy and commen<g ref="char:EOLhyphen"/>dable</hi> feare, then otherwiſe. Some affliction or danger there is; but yet an higher cauſe, which breedeth the feare.</p>
+               <p>Firſt, ſometimes the feare is for ſome ſinne unrepented and unpar<g ref="char:EOLhyphen"/>doned, as the poore heart doubteth.
+<pb n="9" facs="tcp:55467:10"/>
+                  <hi>Job</hi> in his great calamities feared, leaſt the Lord reckoned with him for old offences, chap. 13.26. <hi>thou writeſt bitter things againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt me to poſſeſſe the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of my youth.</hi> When trouble comes, and the peace with God not ſetled, it is juſt cauſe of feare.<note place="margin">Prov. 18.11.</note> 
+                  <hi>A w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> who can beare?</hi> Though ſometime the Chriſtian be comfortably per<g ref="char:EOLhyphen"/>ſwaded of the peace, yet my perfect<g ref="char:EOLhyphen"/>ly: Or ſome old ſinne comes new<g ref="char:EOLhyphen"/>ly to remembrance, and brings ter<g ref="char:EOLhyphen"/>rour with it: As to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brethren when taken for ſpyes,<note place="margin">Gen 12.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</note> 
+                  <hi>We are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> guilty concerning <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the anguiſh of his ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>le, and would not heare; therefore is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſſe come upon us.</hi> Or howſoever, ſome feare will doe well, to aſſure the peace more throughly, Phil. 2.12. <hi>Work out your ſalvation wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fear and tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mbling.</hi> And thus, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is the man that feareth alwa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Prov. 28.14. Where feare ſtandeth in oppoſi<g ref="char:EOLhyphen"/>tion to <hi>hardnes of heart,</hi> as appeareth by the oppoſition of the ſentence.</p>
+               <p>Secondly, ſometimes the feare <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not ſo much for <hi>himſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lfe</hi> (whoſe e<g ref="char:EOLhyphen"/>ſtate
+<pb n="10" facs="tcp:55467:11"/>
+is good, and gives him leave to rejoyce in God all the day long) as for his <hi>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ldren</hi> which are young, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, not inſtructed, not provided for: He feares leaſt they ſhould c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me into Popiſh or prophane hands, and miſcarry: Alas, what ſhall they doe, if they be fatherleſſe, motherleſſe, friendleſſe, without go<g ref="char:EOLhyphen"/>vernment, or without good inſtru<g ref="char:EOLhyphen"/>ction? The body is like to be in bad caſe enough, but the ſoule is worſe. Few friends of the ſoule, even where is ſome love to the body.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, ſometimes it is not ſo much for his owne <hi>particular,</hi> as the <hi>welfare of the Church;</hi> leaſt Idola<g ref="char:EOLhyphen"/>ters prevaile, and Idolatry be eſta<g ref="char:EOLhyphen"/>bliſhed againe, leaſt the Goſpell be hindered in the free courſe of it; feaſt the <hi>Ark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be taken,</hi> and the <hi>glory depart</hi> from Iſrael, 1 Sam. 4.13. <hi>Eli ſate upon a ſeat by the way-ſide, watching; for his heart trembled for the Arke of God.</hi>
+               </p>
+               <p>Or he feares for the <hi>glory of God;</hi> leaſt it be eclipſed, if the good ſide goe to the worſe, and wicked ene<g ref="char:EOLhyphen"/>mies have occaſion to blaſpheme:
+<pb n="11" facs="tcp:55467:11"/>
+                  <hi>Where is now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God,</hi>
+                  <note place="margin">P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 12.10</note> and Goſpel<g ref="char:EOLhyphen"/>ling, and Faſting, and Praying, and Reformation? Thus <hi>Moſes</hi> was a<g ref="char:EOLhyphen"/>fraid, leaſt if Iſrael were deſtroyed in the Wilderneſſe, the enemy would ſay, <hi>It is becauſe God was not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> them into the good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>and,</hi> Num. 14.13. and <hi>Joſhua.</hi> chap. 7.9. <hi>What will thou doe unto thy great Name?</hi> namely, if Iſrael ſtill fall before the men of <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Which is an holy feare: We read of ſome ſuch thing in God himſelfe, Deut. 32.26, 27. <hi>I ſaid, I would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, I would make the re<g ref="char:EOLhyphen"/>membrance of them to ceaſe from among men, were it not that I feared the wrath of the enemy, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> The Lord is a <hi>Jealous God,</hi> and feares leaſt his glory goe to another; and his people a <hi>zealous people,</hi>
+                  <note place="margin">Tit 2.14.</note> fearing the ſame thing; which is a feare holy and commendable.</p>
+               <p n="5">V. Some feare is both <hi>natu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/>
+and very <hi>uſefull.</hi>
+               </p>
+               <p>Feare is a <hi>naturall aff<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ction,</hi>
+                  <note place="margin">Fea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, a naturall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> car<g ref="char:EOLhyphen"/>ried to ſome evill at hand, for the avoyding of it. Nature ſeek<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the preſervation of <hi>it ſelfe,</hi> and declines
+<pb n="12" facs="tcp:55467:12"/>
+the contraries; and the preſervation of the outward <hi>eſtate,</hi> wherewith God hath bleſſed him; to ſave as much as it can, from rapine and vi<g ref="char:EOLhyphen"/>olence; why not? an honeſt provi<g ref="char:EOLhyphen"/>dence is not onely lawfull, but ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>And it is <hi>uſefull;</hi> to act according to Gods providence, who will bleſſe and help his people, but not idling, careleſſe, fearleſſe, neglecting the mea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es. Sometimes feare acteth for the <hi>avoyding</hi> of the evill feared, as <hi>Acts</hi> 27.38. in feare of ſhipwrack, and to obtaine the promiſe of ſaving their lives, <hi>they l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghtned the ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p, and caſt out the wheat into the ſea.</hi> Some<g ref="char:EOLhyphen"/>times by <hi>preparing</hi> for the evill, if it be not to be avoyded, as Amos 4.12. <hi>Therefore thus will I doe unto thee O Iſrael; and becauſe I will doe this unto thee, prepare to meet thy God O Iſrael.</hi> And by this latter the ſoule is drawne neerer unto God: reaſo<g ref="char:EOLhyphen"/>ning, Is there ſo much danger a<g ref="char:EOLhyphen"/>broad? It is time then to get the clo<g ref="char:EOLhyphen"/>ſer to God, and keep with him. When Hawks be abroad, the Bird is ſafeſt upon the neſt, Pſal. 91.4.
+<pb n="13" facs="tcp:55467:12"/>
+                  <hi>He ſhall cover thee with his fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>thers, and under his wings ſhalt them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> And thus it is a ſinne, not to feare when a judgement is com<g ref="char:EOLhyphen"/>ming; as in wicked men who care for nothing: <hi>Fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ye not me ſaith the Lord?</hi> Jer. 5.22. We are com<g ref="char:EOLhyphen"/>manded to <hi>feare him, who,</hi>
+                  <note place="margin">Luk. 12.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>after he hath killed, hath power to caſt into hell:</hi> And one diſcription of God children is, <hi>they feare the Lord,</hi> Mal. 3.16.</p>
+               <p n="6">VI. The promiſe here made to <milestone type="tcpmilestone" unit="unspecified" n="VI"/> the godly is, for the expelling of <hi>immoderate feares;</hi> either not to enter into a beleeving heart at all, or elſe to be ſoone thruſt out againe: Therefore the feares here are oppoſed to <hi>establiſhing</hi> of the heart, ver. 8. <hi>he ſhall not be a<g ref="char:EOLhyphen"/>fraid; his heart is establiſhed:</hi> His heart is of a <hi>preſerving</hi> and <hi>fencing</hi> nature, to uphold the heart againſt every aſſault and annoyance of e<g ref="char:EOLhyphen"/>nemies, Phil. 4.7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The peace of God ſhall keep your hearts and minds</hi> (as ſouldiers in a garri<g ref="char:EOLhyphen"/>ſon) <hi>through Chriſt Jeſus.</hi>
+               </p>
+               <p>But when are feares immode<g ref="char:EOLhyphen"/>rate?<note place="margin">Feare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, when im<g ref="char:EOLhyphen"/>moderate. <hi>4.</hi> Notes.</note>
+                  <pb n="14" facs="tcp:55467:13"/>
+1. When they are killing; as to worldly and carnall men ſometimes they are: <hi>worldly ſor<g ref="char:EOLhyphen"/>row <milestone type="tcpmilestone" unit="unspecified" n="1"/> cauſeth death:</hi> See an in<g ref="char:EOLhyphen"/>ſtance <milestone type="tcpmilestone" unit="unspecified" n="2"/> in <hi>Jer.</hi> 49.23, 24.2. When they hinder duty; ſo afraid, that ye cannot pray, read, heare with <milestone type="tcpmilestone" unit="unspecified" n="3"/> profit, or the like. 3. When they baniſh all joy in God; which ſhould not be; feare before God, but with ſome mixture of joy: <hi>re<g ref="char:EOLhyphen"/>joyce with trembling,</hi> Pſal. 2.11. and, <hi>reioyce in the Lord alway, and againe I ſay,</hi>
+                  <note place="margin">Phil. 4.4.</note> 
+                  <hi>reioyce.</hi> 4. When they <milestone type="tcpmilestone" unit="unspecified" n="4"/> put men into unlawfull wayes to help themſelves; as <hi>Saul</hi> in his feare of the Philiſtines, would needs ofter ſacrifice, which was not his office to doe; or goe to the Witch at <hi>Endo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> againſt his owne Law and conſcience.</p>
+               <p>This they do not to godly men; wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n moſt afraid, they have ſome help to ſtay them up untill better times: Even in <hi>deſertions,</hi> when the Lord withdrawes his comforts, and they make moane; yet they will not adventure upon ſinne, which might give ſome content<g ref="char:EOLhyphen"/>ment;
+<pb n="15" facs="tcp:55467:13"/>
+they will lift up a prayer, euen when they ſay they have lit<g ref="char:EOLhyphen"/>tle hope to ſpeed; they magnifie the eſtate of Gods children, who enjoy comfort, and love them, will not ſpeak ill of them, nor doe ought againſt them.</p>
+               <p>A ſigne <hi>thr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>out of the matter</hi> is in them,<note place="margin">Job 19.28<g ref="char:punc">▪</g>
+                  </note> as <hi>Job</hi> ſaid of himſelfe a<g ref="char:EOLhyphen"/>midſt all thoſe diſtempers: They have the <hi>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>stance,</hi> though they faile in <hi>circumstance,</hi> Iſa. 6.13.<note place="margin">1 Joh. 3.9.</note> 
+                  <hi>They holy ſeed is the ſubstance there<g ref="char:EOLhyphen"/>of. The ſeed of God abideth in them.</hi> Though the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>es</hi> fall off, yet the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap lyes at the root; faith keeps the heart alive ſtill: That they are willing to reſiſt a temptation, though ſometimes foiled; and grieve, when the Tempter hath been too hard for them; and a<g ref="char:EOLhyphen"/>midſt all their foiles, their faith upholds them unto victory: Still they are <hi>comprehended</hi> of Chriſt, even when they are not able to comprehend Chriſt, <hi>Phil.</hi> 3.12. And in due time they ſhall be de<g ref="char:EOLhyphen"/>livered from all their feares, ene<g ref="char:EOLhyphen"/>mies, dangers, combats, moleſta<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="16" facs="tcp:55467:14"/>
+               <head>Section II.</head>
+               <argument>
+                  <p>Grounds of fixing and ſetling the heart by Faith.</p>
+               </argument>
+               <p>
+                  <note place="margin">The chiefe point in this diſ<g ref="char:EOLhyphen"/>courſe.</note>Faith is a ſtrong and effectuall meanes to ſettle the heart in times of danger; in times when evill tidings fly about; in times when unbeleeving hearts reele to and fro, Hab. 2.4. <hi>Behold, his ſet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le which is lifted up, is not upright in him; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t the iuſt ſhall live by his faith.</hi> Iſa. 7.9. <hi>If ye will not be<g ref="char:EOLhyphen"/>leeve, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ye ſhall not be establi<g ref="char:EOLhyphen"/>ſhed.</hi> Chap. 50.10. <hi>Who is among you that feareth the Lord, that o<g ref="char:EOLhyphen"/>beyeth the voyce of his ſervant, that walketh in darkneſſe and hath no light? let him truſt in the Name of the Lord, and ſtay upon his God.</hi> Joh. 14.1. <hi>Let not your heart be troubled; ye beleeve in God, believe alſo in me.</hi>
+               </p>
+               <p>
+                  <note place="margin">Ground<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>The Grounds hereof are theſe.</hi>
+               </p>
+               <p n="1">
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. In reſrect of God, on whom faith truſteth.<note place="margin">The whole bleſſed Trinity.</note> The heart may
+<pb n="17" facs="tcp:55467:14"/>
+well be fixed, becauſe it <hi>trusteth on the Lord;</hi> who is the <hi>Rock of ſal<g ref="char:EOLhyphen"/>vation:</hi> In a great ſtorme it is good to faſten the anchor to a ſtrong rock:<note place="margin">Pſal. 95.1</note> And ſuch is God to the Church in great perſecutions, ſo as all <hi>the gates of hell ſhall not prevaile againſt it,</hi> Mat. 16.18.</p>
+               <p>Firſt, God the Father;<note place="margin">Father. Relations.</note> the fountaine of the Trinity, and of our comfort. He is our Father; as Chriſts by nature, ſo ours by a<g ref="char:EOLhyphen"/>doption: and a child reſteth ſe<g ref="char:EOLhyphen"/>curely in the boſome of his loving father.<note place="margin">Attributes</note> And every <hi>Attribute</hi> is mighty to fix the heart of Belee<g ref="char:EOLhyphen"/>ver. The power, wiſdome, ho<g ref="char:EOLhyphen"/>lineſſe, truth, mercy, juſtice of God, and the reſt.<note place="margin">De<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e.</note> Alſo his <hi>Coun<g ref="char:EOLhyphen"/>ſell</hi> taken for the maine, that is, the ſaving of his ſoule. God is far beyond all imperfections of an earthly friend; who loves well, but may prove forgetfull, unable, weary of doing good, &amp;c.</p>
+               <p>Beſide, faith ſeeth in God a ſweet and bleſſed <hi>Providence,</hi>
+                  <note place="margin">Provi<g ref="char:EOLhyphen"/>dence.</note> in which it may reſt quietly and con<g ref="char:EOLhyphen"/>tentedly: Saying as <hi>Abraham</hi> in
+<pb n="18" facs="tcp:55467:15"/>
+that exigent,<note place="margin">Gen. 22.14.</note> 
+                  <hi>God will provide; in the mount it ſhall be ſeene.</hi> With<g ref="char:EOLhyphen"/>out the will of my Father in H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>ven not a haire of mine head, nor a little ſporrow can fall to the ground: Things come not to paſſe either by fate or fortune (which are the contentments of fools and Athe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts) but by the good hand of God, at leaſt permitting and or<g ref="char:EOLhyphen"/>dering. And there be divers <hi>acts of Providence;</hi>
+                  <note place="margin">Acts of it.</note> Over-ruling, mit<g ref="char:EOLhyphen"/>tigating, limiting, diſpoſing all to good, even the worſt events. God is the great Governour of the world, and evill ſhall not come but at his pleaſure; not till now, not more, not longer, no farther; as he ſaith to the proud wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, <hi>Thus farre ſhall ye go,</hi>
+                  <note place="margin">Job 38.11.</note> 
+                  <hi>but no far<g ref="char:EOLhyphen"/>ther.</hi> And as <hi>Joſeph</hi> ſaid, <hi>Ye thought evill againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, but God ment it unto good,</hi> Gen. 50.20 And as <hi>Job, The Lord give<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, and the Lord taketh away; bleſſed be the name of the Lord,</hi> chap. 1.21.</p>
+               <p>
+                  <note place="margin">P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ſes.</note>Finally, faith pitcheth on <hi>pro<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſes,</hi> and theſe <hi>heard with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Oath,</hi> to give us <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:55467:15"/>
+Heb. 6.18. And promiſes are farre better then all performances in this world, whatever they be; ſtill there is more in a promiſe;<note place="margin">Iſa. 65.8.</note> 
+                  <hi>A bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſing in the cluster,</hi> deſtroy it not: For the <hi>matter,</hi> they are <hi>pre<g ref="char:EOLhyphen"/>cious</hi> promiſes; for the <hi>manner</hi> of mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, <hi>f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e;</hi> for the <hi>extent, uni<g ref="char:EOLhyphen"/>verſall;</hi> for the effect,<note place="margin">2 Cor. 1.20. Iſa. 55.3.</note> 
+                  <hi>ſure and certa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne; yea and am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n; ſure mer<g ref="char:EOLhyphen"/>cies,</hi> everlaſting mercies, ever<g ref="char:EOLhyphen"/>laſting Covenant, &amp;c. Faithfull is he that hath promiſed, who will alſo doe it. And the gifts and cal<g ref="char:EOLhyphen"/>ling of God are without repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>Good foundations for faith to ſettle upon.</p>
+               <p>Secondly, God the Sonne;<note place="margin">The Sonne of God.</note> the <hi>C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> of faith, and ſpeciall <hi>Ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ect,</hi> on which it reſteth. There is a world of wealth in Chriſt, that the heart may well be fixed by beleeving on him. He is the ſtrength of a beleeving heart; yea <hi>everla<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ng ſtrength,</hi> Iſa. 26.4. and <hi>new</hi> ſtrength to be ſtill deri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed from him, according to occa<g ref="char:EOLhyphen"/>ſion,
+<pb n="20" facs="tcp:55467:16"/>
+chap. 40.31. He is an <hi>Ad<g ref="char:EOLhyphen"/>vocate with the Father,</hi>
+                  <note place="margin">1. Joh. 2.1.</note> to non-ſuit our clamourous ſinnes, and keepe our perſons in favour. He is our King, now governing for us, though in Heaven, in all that glory. He is the beſt friend we have, neerer then a Brother. He is an enemy to our enemies, and will <hi>curſe them that curſe us,</hi> Gen: 12.3. In all reſpects there is great cauſe to truſt in Chriſt, and, tru<g ref="char:EOLhyphen"/>ſting in him, to be fixed; <hi>Bleſſed are all they that put their truſt in him.</hi>
+                  <note place="margin">Pſal. 2.12</note> He had not been Chriſt, but to ſtand us in ſtead, and give us ſure footing in every ſlippery time and occaſion.</p>
+               <p>
+                  <note place="margin">The Holy Ghoſt.</note>Thirdly, God the Holy Ghoſt; <hi>the Spirit of faith,</hi> 2 Cor. 4.13. enabling us to <hi>ſpeak,</hi> or make <hi>con<g ref="char:EOLhyphen"/>feſſion</hi> of the truth in dangerou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> times. He is alſo <hi>the ſpirit of ſtrength,</hi> Iſa. 11.2. the Spirit of <hi>power,</hi> of <hi>love,</hi> and of a <hi>ſound mind,</hi> 2 Tim. 1.7. And thus he fixeth the poore heart, by what he <hi>work<g ref="char:EOLhyphen"/>eth</hi> in it, and what he <hi>testifieth</hi> to it, and what he <hi>comforteth;</hi> Thence
+<pb n="21" facs="tcp:55467:16"/>
+we read the <hi>ſeale</hi> of the ſpirit, the <hi>earneſt</hi> of the ſpirit,<note place="margin">Paſſion a<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lum.</note> the <hi>liberty</hi> of the ſpirit, the <hi>witneſſe</hi> of the ſpirit and the <hi>firſt f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uits</hi> of the ſpirit; all of them confirmations to an unſetled heart againſt its ſeverall trials. When the Holy Ghoſt was come upon the Apoſtles, we ſee how fearleſſe they ſtood be<g ref="char:EOLhyphen"/>fore the Counſell, and deſpiſed all threatnings. <hi>O</hi> Auſtit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>he is come, he is come,</hi> ſaid Maſter <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> at the ſight of the ſtake; ſpea<g ref="char:EOLhyphen"/>king of the comfortable preſence of the Holy Ghoſt, who had with<g ref="char:EOLhyphen"/>drawne for a while. And for us, he is promiſed to <hi>abide with us for ever.</hi>
+                  <note place="margin">Joh. 14.11.</note> Which we profeſſe to be<g ref="char:EOLhyphen"/>leeve, ſaying, I beleeve in the Holy Ghoſt; and ſo the heart is fixed.</p>
+               <p>This is the firſt and ſelf-ſuffici<g ref="char:EOLhyphen"/>ent ground for faith to ſettle the heart of Gods child. The reſt are ſecondary, and powerfull onely in their owne place, and in order to that firſt.</p>
+               <p n="2">II. In reſpect of the Word,<note place="margin">
+                     <hi>II.</hi> The Word of Faith,</note> upon which faith relyeth. A neer
+<pb n="22" facs="tcp:55467:17"/>
+relation there is between Fa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and the Word; thence it is called <hi>the Word of Faith,</hi> Rom. 10.8. And it is a <hi>quickning</hi> Word, as to <hi>David,</hi> Pſal. 119.50. <hi>Thy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hath quickned me;</hi> it is a <hi>comfor<g ref="char:EOLhyphen"/>ting</hi> Word, as ver. 24. <hi>Thy Testi<g ref="char:EOLhyphen"/>monies are my delight;</hi> It is a <hi>ſtrengthning</hi> Word, as Heb. 5. ult. <hi>ſtrong meat:</hi>
+                  <note place="margin">2 Pet. 1.19. Mat. 5.18.</note> It is a <hi>ſure</hi> Word; all to be performed in due time: <hi>Hea<g ref="char:EOLhyphen"/>ven and earth ſhall paſſe away, but my Word ſhall not paſſe away.</hi> It is a ſtore-houſe of promiſes, which as they were made in mercy, ſo they ſhall be made good in truth. The Chriſtian being brought in<g ref="char:EOLhyphen"/>to ſtraights may read, and quick<g ref="char:EOLhyphen"/>ly meet with a ſtay for his poore unſtayed, troubled heart; and without the Word he ſhould ſoon miſcarry, Pſal. 119.92 <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe thy law had been my delights, I ſhould have periſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> affli<g ref="char:EOLhyphen"/>ction:</hi> But by help of the Word he is ſoon ſetled, confident, full of prayſes for his good eſtate in Chriſt, and triumphant over all his enemies; ſee <hi>Pſ.</hi> 56.3, 4, 10, 11.</p>
+               <p n="3">
+                  <pb n="23" facs="tcp:55467:17"/>III. In reſpect of what faith <milestone type="tcpmilestone" unit="unspecified" n="III"/> receiveth<g ref="char:punc">▪</g> It receiveth ſuch mer<g ref="char:EOLhyphen"/>cies at the hand of God,<note place="margin">B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fits rece<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>d by Faith.</note> and ſo much, that it reſteth con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent with and condition the heavenly Fa<g ref="char:EOLhyphen"/>ther ſhall a lot unto it. It ſeeth ſinne aboliſhed, forgiven, nothing to be laid to his charge; which is <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e bleſſedneſſe of a man,</hi> Rom. 4.6. It ſeeth Satan diſarmed, the Law ſatisfied, the curſe taken a<g ref="char:EOLhyphen"/>way, hell ſhut, and Heaven open<g ref="char:EOLhyphen"/>ed to him: It ſeeth Gods wrath pacified, his juſtice ſatisfied, his favour procured; which is matter of great joy, yea <hi>glorying,</hi> in the midſt of many tribulations, <hi>Rom.</hi> 5.1, 2, 3. And this is the King<g ref="char:EOLhyphen"/>dome of God within us, 14.17. <hi>Not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at and d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nke, but righ<g ref="char:EOLhyphen"/>teouſneſſe and peace, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Holy Ghoſt.</hi> Finally, ſaith ſeeth all afflictions ſanctified, ſweetned, mittigated, exchanged for good; in wrath the Lord remembreth mercy; we ſhall not drinke <hi>the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>egs</hi> of the Cup,<note place="margin">Pſ. 75.8.</note> as the wick<g ref="char:EOLhyphen"/>ed doe, and as Chriſt did for us; but in him ſing and tri<g ref="char:EOLhyphen"/>umph,
+<pb n="24" facs="tcp:55467:18"/>
+                  <hi>O death,</hi>
+                  <note place="margin">1 Cor. 15.55.</note> 
+                  <hi>where is thy ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng<g ref="char:punc">▪</g> O grace, where is thy victory!</hi> What <hi>Agag</hi> ſaid fooliſhly, the Be<g ref="char:EOLhyphen"/>leever ſaith on good grounds, <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e bitterneſſe of death is paſt:</hi>
+                  <note place="margin">1 Sam. 15.32. Phil. 1.21</note> and, <hi>Welcome l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe:</hi> and, <hi>To dye is gain:</hi> an entrance into glory.</p>
+               <p n="4">
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> IV. In reſpect of what faith worketh:<note place="margin">Works f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> faith fix<g ref="char:EOLhyphen"/>ing the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> Faith is no idle grace, but ſtill ſets it ſelfe on work, a<g ref="char:EOLhyphen"/>bout ſuch imployments, and in ſuch manner, as the Lord will mercifully (according to promiſe) ſuccour the labouring heart in all his difficulties.</p>
+               <p>Firſt, it <hi>works out corruption,</hi> which would hinder comfort, Acts 15.9. <hi>Purifying their hearts by faith,</hi> Both the <hi>guiltines</hi> of ſin; it is never quiet, till it be clenſed &amp; cleared in the blood of Chriſt: Witneſſe <hi>David</hi> a Beleever, who after thoſe great ſinnes, heaped up many pe<g ref="char:EOLhyphen"/>titions for pardon, <hi>Pſal.</hi> 51. where<g ref="char:EOLhyphen"/>as another fals into the mire, and lyes wallowing in it, as in his proper clement. And the <hi>fil<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hineſſe</hi> of ſin; none is ſuffered to command: out with it, <hi>keep thy ſelf
+<pb n="25" facs="tcp:55467:18"/>
+from in,</hi> as from defilement, <hi>Pſal.</hi> 18.23. As the <hi>fleſh lusteth againſt the ſpirit,</hi>
+                  <note place="margin">Gal. 5 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> ſo the <hi>ſpirit</hi> in a Belee<g ref="char:EOLhyphen"/>ver <hi>lusteth againſt the fleſh:</hi> And, <hi>O this body of death, who ſhall de<g ref="char:EOLhyphen"/>liver!</hi>
+                  <note place="margin">Pſ 51 10.</note> 
+                  <hi>Create in me a clean heart O God, renew a right ſpirit within me.</hi>
+               </p>
+               <p>Secondly, faith is an <hi>undivided <milestone type="tcpmilestone" unit="unspecified" n="2"/> companion of a good conſcience:</hi>
+                  <note place="margin">1 Tim. 1.19.3.9.</note> which is a con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inuall feaſt, a bra<g ref="char:EOLhyphen"/>zen wall; great matter of joy in many and great afflictions, 2 Cor. 1.12. <hi>This is our reioycing, even the testimony of our conſcience.</hi>
+               </p>
+               <p>Thirdly, it worketh <hi>hope;</hi> which <milestone type="tcpmilestone" unit="unspecified" n="3"/> is an <hi>anchor of the ſoule,</hi> both ſure and ſtedfaſt, entring into that with<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the vaile, <hi>Heb.</hi> 6.19<g ref="char:punc">▪</g> and ſaith, Though it be ill for the pre<g ref="char:EOLhyphen"/>ſent, it will be better hereafter<g ref="char:punc">▪</g> In the world is no comfort, but in Heaven there is enough and e<g ref="char:EOLhyphen"/>nough: Men are enemies, but God a friend, and will appeare in time for us, and againſt them all: And if our ſelves ſhould miſ<g ref="char:EOLhyphen"/>carry, yet our poſterity ſhall ſee the fruit of all theſe ſtirres; our
+<pb n="26" facs="tcp:55467:19"/>
+children ſhall enter into the good land. A great ſtay to the heart, when almoſt overwhelmed with ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es; Pſal. 27.13. <hi>I had fainted, unleſſe I had belee<g ref="char:EOLhyphen"/>ved to ſee the goodneſſe of the Lord in the land of the l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ving.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, faith works <hi>patience;</hi> to endure any thing in the way, and for the cauſe of God; <hi>there<g ref="char:EOLhyphen"/>fore we both labour, and ſuffer re<g ref="char:EOLhyphen"/>proach, becauſe we truſt in the li<g ref="char:EOLhyphen"/>ving God,</hi> 1. Tim. 4.10. And by patience the Chriſtian hath power over his owne ſpirit; and can <hi>poſ<g ref="char:EOLhyphen"/>ſeſſe his ſoule,</hi>
+                  <note place="margin">Luk. 21.19.</note> which otherwiſe would be loſt (as it were) by im<g ref="char:EOLhyphen"/>patience and other diſtempers. When patience hath its <hi>perfect worke,</hi>
+                  <note place="margin">Jam. 1.4.</note> he ſhall be altogether in<g ref="char:EOLhyphen"/>vincible; and ſhall hold out unto victory, and to the enjoying of all mercies promiſed, <hi>Heb.</hi> 6.12. old Beleevers <hi>through faith and pati<g ref="char:EOLhyphen"/>ence inherited the promiſes.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, faith can <hi>pray; the pray<g ref="char:EOLhyphen"/>er of faith,</hi>
+                  <note place="margin">
+                     <hi>Jam. 5.15, 16.</hi> Oratio fi<g ref="char:EOLhyphen"/>dei Omni<g ref="char:EOLhyphen"/>poten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> which <hi>availeth much,</hi> and after a ſort is <hi>Omnipotent,</hi> as <hi>Luther</hi> ſaid. And ſpecially by
+<pb n="27" facs="tcp:55467:19"/>
+prayer the Beleever can get hear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s-eaſe in every ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d qualitie, the ſetling of unquiet affections, heavy paſſions of unbelief, fright<g ref="char:EOLhyphen"/>full apprehenſions of evill to come. <hi>Lord help my mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe,</hi>
+                  <note place="margin">Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9.24.</note> Pſ. 109.4. for my love they are my adverſaries; <hi>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> my ſelf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> un<g ref="char:EOLhyphen"/>to prayer:</hi> mark the force of that phraſe. And it is ſaid of <hi>Jehoſa<g ref="char:EOLhyphen"/>phat,</hi> in that great danger, that <hi>he ſet himſelf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to ſeek the Lord;</hi> which both qualified his feare, and ob<g ref="char:EOLhyphen"/>tained a victory, 2 Chron. 20.3.</p>
+               <p n="5">V. In reſpect of the <hi>enemies,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> both in the <hi>world,</hi> and from <hi>hell:</hi>
+                  <note place="margin">Enem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſabled in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne. <hi>Rom. 8.33.</hi>
+                  </note> Faith ſeeth them diſabled in the ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne: Who can <hi>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt,</hi> or <hi>con<g ref="char:EOLhyphen"/>dem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> or <hi>ſeparate from the love of God?</hi> Well they may kill the bo<g ref="char:EOLhyphen"/>dy, but not hurt the ſoule; or rifle the eſtate, but not prejudice the goodnes of his eſtate toward God: Therefore <hi>feare them not,</hi> ſaith our Saviour, <hi>Luk</hi> 12.4, 5. Neither can they do that, til the Lord give them leave;<note place="margin">2 Sam. 16.11.</note> as he <hi>bad Shime<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to curſe <hi>David;</hi> and ſatan could not touch <hi>Job,</hi> nor enter into the Swine of
+<pb n="28" facs="tcp:55467:20"/>
+the <hi>Gada<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ns,</hi> till he had commiſ<g ref="char:EOLhyphen"/>ſion. Enemies are a ſharp rod, but <hi>in the hand of God;</hi> to lay on, or take off, as he pleaſeth, <hi>Iſa.</hi> 10.5. Nor yet can they vex us one moment longer then the Lord will: As we ſee in Iſraels com<g ref="char:EOLhyphen"/>ming out of <hi>Egypt,</hi> Exod 12.41. <hi>The ſelfe ſame day,</hi> wherein the 430. yeers were expired: <hi>The rod of the wicked ſhall not reſt on the lot of the righteous:</hi>
+                  <note place="margin">Pſ. 125.3.</note> In due time the rod muſt be caſt into the fire.</p>
+               <p n="6">
+                  <milestone type="tcpmilestone" unit="unspecified" n="VI"/> VI. In reſpect of the proper <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd of faith,</hi>
+                  <note place="margin">Faith ends of not but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſalvation.</note> which is <hi>ſalvation;</hi> 1 Pet. 1.9. Faith never leaves the ſoul, but in endleſſe &amp; unſpeakable bleſſed<g ref="char:EOLhyphen"/>nes. There indeed it ſelf endeth, ha<g ref="char:EOLhyphen"/>ving done its office; but the effect &amp; benefit of it never endeth. Now they ſay, all is well that ends well; and in preſent, all is well, becauſe the end ſhall be good; thence the heart is fixed, and the Beleever <hi>fainteth not,</hi> whatever he ſuffers in <milestone type="tcpmilestone" unit="unspecified" n="VII"/> this life; ſee 2 <hi>Cor.</hi> 4.16, 17, 18.</p>
+               <p n="7">
+                  <note place="margin">The Ordi<g ref="char:EOLhyphen"/>nance of God.</note>VII. In reſpect of Gods grant and ordinance to a Beleever, wal<g ref="char:EOLhyphen"/>king humbly with him; as here in
+<pb n="29" facs="tcp:55467:20"/>
+the Text, this ſtands a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a privi<g ref="char:EOLhyphen"/>ledge of the godly, deſcribed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1. to be on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t God, and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>g earth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Comm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ments.</hi> God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath paſt over to him ſuch in hum<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nity, <hi>He ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> not b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in the Lord.</hi> Having taken his part of ſorrow and feare before<g ref="char:EOLhyphen"/>hand,<note place="margin">Hab. 3 16.</note> he ſhall <hi>reſt in the day of e<g ref="char:EOLhyphen"/>vill.</hi> And having come to Gods termes (of beleeving, repenting, obeying, zeale, and the like) he ſhall now enjoy the ſweetneſſe of it. One that hath ſerved his time faithfully, ſhall have the privi<g ref="char:EOLhyphen"/>ledges of a Townſman, or Ci<g ref="char:EOLhyphen"/>tizen.</p>
+               <p>Theſe are the grounds, where<g ref="char:EOLhyphen"/>on faith ſetleth the heart in evill <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>All this while we ſay nothing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f a <hi>Stoicall,</hi> or <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n call</hi> reſoluti<g ref="char:EOLhyphen"/>on; that a Chriſtian ſhould ei<g ref="char:EOLhyphen"/>ther be <hi>voyd of affections,</hi>
+                  <note place="margin">Heb. 12.5</note> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>de<g ref="char:EOLhyphen"/>ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe</hi> the croſſe by a dogged ſto<g ref="char:EOLhyphen"/>macke; or that he needs world<g ref="char:EOLhyphen"/>ly wiſdome and policy to help
+<pb n="30" facs="tcp:55467:21"/>
+himſelfe; or that he muſt ſhift and ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk for himſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lfe in an in<g ref="char:EOLhyphen"/>direct way; or goe over to the enemies of God and Religion; or on the other ſide, ſeeke his owne revenge upon them. All this is but <hi>Sau<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Armour, not ſit for <hi>Dav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> to fight in: There<g ref="char:EOLhyphen"/>fore we leave them to <hi>Ma<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>vel</hi> and his diſciples: Men of this world,<note place="margin">Job 36.21.</note> who <hi>chooſe ſinne rather then affliction:</hi> And we goe out againſt the enemies of God, as <hi>David</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Goliah,</hi>
+                  <note place="margin">1 Sam. 17.45.</note> 
+                  <hi>in the name of the Lord.</hi> Grounds of faith ſuffice the heires of faith; who are ever happieſt, and moſt at eaſe, when they hold them to their grounds.</p>
+            </div>
+            <div n="3" type="section">
+               <head>Section III.</head>
+               <argument>
+                  <p>Improve Faith for ſetling thy heart in theſe evill times.</p>
+               </argument>
+               <p>
+                  <note place="margin">Make uſe of Faith at theſe times of need.</note>Every one wiſheth the times were ſetled, and if the times were ſetled, he would doe thus and
+<pb n="31" facs="tcp:55467:21"/>
+thus to make gaine, and live a merry life. But (Chriſtians) the ſetling of the times is not in your power, the ſetling of your hearts is, and ye ſee how: Other may paſſe away as fruitleſſe wiſhes, and loſt endeavours, but this is feiſable, and will be to good purpoſe: <hi>The Juſt is an everla<g ref="char:EOLhyphen"/>sting fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndation,</hi> ſaith <hi>Solomon;</hi>
+                  <note place="margin">Prov. 10.</note> that is, being fixed by faith; o<g ref="char:EOLhyphen"/>therwiſe, he is weak as another man; this is the <hi>Samſons look,</hi> which holds all our ſtrength to<g ref="char:EOLhyphen"/>gether; this keeps life in the heart, and ſteddineſſe, whereas without it the ſoule ſtaggers like a drunken man.</p>
+               <p>Now <hi>live by faith:</hi>
+                  <note place="margin">Hab. 2.4.</note> While the naturall man lives the life of na<g ref="char:EOLhyphen"/>ture, do you live the life of grace and of faith: Make uſe of this privilege, as Townſmen doe of theirs, to enrich themſelves, and keep out forreigners. No man hath a commodity lying by him, but he will make uſe of it when it ſhall be moſt for his ad<g ref="char:EOLhyphen"/>vantage: And ſo ſhould a Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="32" facs="tcp:55467:22"/>
+of his faith in theſe times of need: Never in all our dayes had we ſuch times and occaſions as theſe, and therefore now more then ever we ſhould put our faith to the proofe. Godly men have no exemption from troubles, dangers, or evill tidings, but onely an <hi>Antidote,</hi> to fence their poore hearts againſt the venome of them. And they have their <hi>feares</hi> as others have; and their feares are both <hi>naturall</hi> and <hi>uſe<g ref="char:EOLhyphen"/>full:</hi> Onely this may curbe them and keep them from being <hi>immo<g ref="char:EOLhyphen"/>derate.</hi> Faith acted ſets the heart as a <hi>rock,</hi> and the face as a <hi>flint;</hi> Iſa. 50.7. <hi>The Lord God will helpe me, therefore ſhall I not be confounded; therefore have I ſet my face like a flint, and I know tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I ſhall not be aſhamed.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obiect. </seg>
+                  </label> Oh! but it is very hard to keep the heart in a good frame, of de<g ref="char:EOLhyphen"/>pending and waiting on God; I find my heart ſoon unſetled, though ſometime fixed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>1</label> True, Gods owne children find ſad viciſſitudes of faith and frail<g ref="char:EOLhyphen"/>ty;
+<pb n="33" facs="tcp:55467:22"/>
+fleſh and ſpirit are ever combating, as in other things, ſo in this; like thoſe that goe upon the ſea, ſometime <hi>carried up to Heaven,</hi>
+                  <note place="margin">Pſal. 107.26.</note> ſometime downe againe <hi>into the de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps.</hi> Let no Chriſtian diſcourage himſelfe becauſe of theſe alterations: Be glad, that ſometimes ye find an high tide of affections and aſſurances:<note place="margin">77. 10.</note> 
+                  <hi>David</hi> remembred <hi>the yeer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of old</hi> and was comforted.</p>
+               <p>Secondly, it is indeed difficult,<milestone type="tcpmilestone" unit="unspecified" n="2"/> and that ſhewes the excellency of the life of faith:<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>All excellent things are attended w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th their dif<g ref="char:EOLhyphen"/>ficulties:</hi> A great eſtate needs much adoe in the managing. None layeth ſiege to a Cottage; neither will Satan trouble thoſe that live the life of nature; but where faith is, he will quickly ſhew himſelfe an enemy.</p>
+               <p>Thirdly, Religion in generall,<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+and faith in particular, hath a power in it,<note place="margin">
+                     <hi>Lactant. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nditu.</hi> 4.28.</note> both to maintaine it ſelfe, and oppoſe the enemy. Re<g ref="char:EOLhyphen"/>ligion in latin hath its name of <hi>bind<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng:</hi> And in this caſe, it
+<pb n="34" facs="tcp:55467:23"/>
+bindeth the beleeving ſoule to its Maſt, ſo to avoyd enchanting Syrens of the World, and keep it upright againſt all ſtormes of temptation and perſecution; and faith at weakeſt cryes out for help, Lord increaſe our faith, Lord belp my unbeliefe. The life of nature ſtrives to preſerve it ſelfe as long as it can, and by the beſt meanes it can; and ſo doth the life of faith. The weak<g ref="char:EOLhyphen"/>eſt Beleever can make moane, and ſay all is not well with him, and long for ſome reliefe; which ſtruglings ſhall be relieved: <hi>Bleſſed are they that hunger and thirſt after righteouſneſſe,</hi>
+                  <note place="margin">Mat. 5.6.</note> 
+                  <hi>for they ſhall be filled.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, therefore ſtrive ſtill to act thy faith; chide unbeliefe away, as Pſal. 42.11. <hi>Why art thou caſt downe, O my ſoule? why art thou diſquieted within me?</hi> What reaſon for this infidelity? <hi>Fight the good fight of faith,</hi> 1 Tim. 6.12. <hi>Contend for the Faith,</hi> Jude 3. As for the <hi>doctrine</hi> of faith, and <hi>habit</hi> of faith, ſo for
+<pb n="35" facs="tcp:55467:23"/>
+the <hi>act and exerciſe</hi> of it: In vain is that habit of power, which is not reduced into act. No need to bid a Sea-man caſt forth his an<g ref="char:EOLhyphen"/>chor in a ſtorme; ſo me thinks there ſhould be no need to call upon a Chriſtian to ſet his faith on worke, in theſe dangerous dayes.</p>
+               <p>
+                  <hi>Queſt.</hi> What ſhould we doe to exerciſe our faith in ſoule wea<g ref="char:EOLhyphen"/>ther,<note place="margin">Meanes to bring faith into act.</note> and make our uſe of it when need requireth.</p>
+               <p>
+                  <hi>Anſw.</hi> 1. Seeke the Lord by <milestone type="tcpmilestone" unit="unspecified" n="1"/> prayer;<note place="margin">Jam. 1.17.</note> 
+                  <hi>from whom commeth eve<g ref="char:EOLhyphen"/>ry good and perfect g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ft;</hi> and to live the life of faith, is one of thoſe gifts. As he is the <hi>Author,</hi> ſo the <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſher</hi> of faith, <hi>Heb.</hi> 12.2. As he gives the <hi>habit,</hi> ſo the <hi>act</hi> and operation of it: The Lord gives his Church, both the former and la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter raine. Faith is a Creature, and the ſtrength whereby we ſtand is uncreated, even God himſelfe: <hi>Thou art the ſtrength of my heart</hi> (ſaid <hi>David) and my portion for ever.</hi>
+                  <note place="margin">Pſ. 37.26.</note> Faith that muſt ſupport us, muſt it ſelfe be
+<pb n="36" facs="tcp:55467:24"/>
+ſupported of the Lord; as Chriſt prayed for <hi>Peter,</hi> Luke 22.32. <hi>I have prayed that thy faith faile not.</hi>
+               </p>
+               <p>Doth any of you therefore want wiſdome or ſtrength?<note place="margin">Jam. 1.5, 6.</note> 
+                  <hi>Let him ask of God, who giveth liberally.</hi> He is the onely ſtay for a poore Beleever in ſtreights and diffi<g ref="char:EOLhyphen"/>culties: Fall to caſting anchor in Heaven, or elſe ye are gone: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth neither juſtifie, nor uphold us in great trials: God muſt help us to beleeve, or we ſhall ſoone come to nothing: Faith with its <hi>Correlative</hi> is all in all to us.</p>
+               <p n="2">
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Keep ſtill in eye thoſe ma<g ref="char:EOLhyphen"/>ny grounds, on which faith ſtan<g ref="char:EOLhyphen"/>deth, and eſtabliſheth the heart, that is, the <hi>Relations</hi> of God to us, his <hi>Attributes, Promiſes, Pro<g ref="char:EOLhyphen"/>vidence,</hi> mercies <hi>received,</hi> mer<g ref="char:EOLhyphen"/>cies <hi>reſerved,</hi> &amp;c. A tall man in the bottome of a celler will ſee but little; and a ſtrong Beleever if his grounds be out of fight, will be weak as another man. <hi>To the Law and to the Testimony,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 8.20.</note> in matters to be done; to the Goſ<g ref="char:EOLhyphen"/>pell,
+<pb n="37" facs="tcp:55467:24"/>
+and to the Promiſes, in mat<g ref="char:EOLhyphen"/>ters to be <hi>beleeved,</hi> and receive comfort. A Tradeſ-man to fur<g ref="char:EOLhyphen"/>niſh his Shop, will repaire to the Ware-houſe: And a Chriſtian to be furniſhed with comfort, muſt repaire to the Promiſes and the like ſupplies.</p>
+               <p>It may be obſerved, that the ſame Chriſtian, as he hath uſed his grounds, or not uſed them, hath been ſtrangely altered, as if he were not the ſame man: One while a Gyant, another while a Dwarfe. Oh (ſaith <hi>David</hi>) I ſhall one day fall by the hand of <hi>Saul:</hi> Another time he <hi>will not feare,</hi>
+                  <note place="margin">Pſal. 3 6.</note> 
+                  <hi>though ten thouſand had compaſſed him round about.</hi> One while <hi>Job</hi> curſeth his birth-day, and is very impatient; another while he will <hi>truſt in God,</hi>
+                  <note place="margin">Job 13.15</note> 
+                  <hi>though he kill him.</hi> It is <hi>aliquid Dei,</hi> ſome divine thing, that muſt up<g ref="char:EOLhyphen"/>hold the beſt heart that is. If his means be neglected or laid aſide, there quickly comes a fearfull alteration: When the Moone re<g ref="char:EOLhyphen"/>ceives not light from the Sunne,
+<pb n="38" facs="tcp:55467:25"/>
+it is preſently eclipſed.</p>
+               <p n="3">
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3 Shut the eye of fleſh at ſuch times, and beware of carnall rea<g ref="char:EOLhyphen"/>ſon: Carnall reaſon is a great enemy to faith: therefore theſe are oppoſed one to another, <hi>To walk by faith, and walk by ſight,</hi> 2 Cor. 5.7. <hi>We walk by faith, and not by ſight.</hi> He that will goe by likelihoods and unlikelihoods ſhall never be ſetled in belee<g ref="char:EOLhyphen"/>ving. The ſervant of <hi>Eliſha</hi> fea<g ref="char:EOLhyphen"/>red, becauſe he looked onely at them that came againſt him, and ſaw not who were with him: The Noble-man dyed for it: <hi>If God ſhould make windowes in Heaven,</hi>
+                  <note place="margin">2 Kin. 7.2</note> could there be ſuch plenty? <hi>Za<g ref="char:EOLhyphen"/>charias</hi> was ſtricken <hi>dumb</hi> for aſ<g ref="char:EOLhyphen"/>king, <hi>whereby ſhall I know this?</hi>
+                  <note place="margin">Luk. 1.20</note> being old, and his Wife well ſtricken in yeers. <hi>Abraham</hi> on the other ſide,<note place="margin">Rom. 4.19</note> 
+                  <hi>conſidered not the deadneſſe of his owne body, or of</hi> Sarahs <hi>wombe,</hi> but looked at him who had promiſed, that he was a<g ref="char:EOLhyphen"/>ble and faithfull to performe. The naked Word of God is ſuffi<g ref="char:EOLhyphen"/>cient for performing all his pro<g ref="char:EOLhyphen"/>miſes:
+<pb n="39" facs="tcp:55467:25"/>
+Never ask, when, or how, or any ſuch matters? Hath not the Lord ſpoken it? And <hi>if it be mervailous in your eyes, ſhould it be mervailous in mine eyes, ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th the Lord of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſts?</hi> Zech. 8.6. Oh (ſay we) our enemies are many and ſtrong, our friends few and weak, treaſure exhauſted, no likelihood of carrying our cauſe;<note place="margin">Joh. 11.39</note> 
+                  <hi>Lord, by this time it ſtinketh, for t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s is the fourth day:</hi> Ah (ſaid Chriſt to <hi>Martha) ſaid I not unto thee, that if thou wouldeſt beleeve thou ſhouldeſt ſee the glory of God?</hi> Joh. 11.40. Mans reaſon is a ſhort meaſure to eſteem the pow<g ref="char:EOLhyphen"/>er and wiſdome of God.</p>
+               <p>Theſe are ſome meanes to act faith in theſe times of need: Now put your faith to it;<note place="margin">2 Tim. 1.6.</note> 
+                  <hi>ſtirre up the gift of God</hi> that is in you: Where<g ref="char:EOLhyphen"/>fore ſhould a man have riches, and not have the uſe of them? Know, it is a fault, and matter of reproofe in Beleevers, to give way to thoſe feares.<note place="margin">Iſa. 8.12, 13.</note> 
+                  <hi>Feare not their feare, nor be afraid; ſanctifie the Lord of hoſts himſelfe, and let
+<pb n="40" facs="tcp:55467:26"/>
+him be your feare and your dread. why did ye doubt,</hi>
+                  <note place="margin">Mat. 8.26.</note> 
+                  <hi>O ye of little faith?</hi> He is a coward, who hath a ſword by his ſide, and will not uſe it againſt a theefe: And he is a Miſer, who hath ſtore of riches, and yet wanteth neceſſaries in his ſickneſſe. Apply it to thy ſelfe, and think, Who would be ſo clogged and turmoyled with feares, when he may be rid of them? Onely if ye ſtand to your owne Principles, and remember your grounds: None ſo merry as a true Chriſtian, if he hold his owne; indeed none but he: O<g ref="char:EOLhyphen"/>thers <hi>glory in the face, not in heart,</hi> 2 Cor. 5.12.</p>
+            </div>
+            <div n="4" type="section">
+               <head>Section IV.</head>
+               <argument>
+                  <p>Benefits of acting thy Faith in theſe evill times.</p>
+               </argument>
+               <p>Theſe benefits are many and great. <note place="margin">Seven be<g ref="char:EOLhyphen"/>nefits of Faith well acted.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, what a ſweet life would it
+<pb n="41" facs="tcp:55467:26"/>
+be, to be paſt theſe torturing fears? which now lye gnawing upon your hearts,<note place="margin">V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n vitalis. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Origen.</hi>
+                  </note> and drinking up your ſpi<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, that <hi>your life is ſcarce worthy to be called a</hi> life. Oh theſe <hi>hea<g ref="char:EOLhyphen"/>vy and gro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ning paſſions of unbelief!</hi> How doe they keep a man <hi>in bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dage</hi> all the dayes of his life! <hi>Heb.</hi> 2.15. A man ſhall (through theſe feares) want what he hath, aſwell as what he hath not. Onely be<g ref="char:EOLhyphen"/>cauſe he brings not his faith into exerciſe.</p>
+               <p>Secondly, the acting of faith <milestone type="tcpmilestone" unit="unspecified" n="2"/> would be great glory to God, whom we ſerve, and in whom we profeſſe to beleeve; ſhewing actu<g ref="char:EOLhyphen"/>ally; that the Lord is ſufficient matter of joy when all other com<g ref="char:EOLhyphen"/>forts faile, Hab. 3.17, 18. <hi>Al<g ref="char:EOLhyphen"/>though the Figge-tree ſhall not bloſ<g ref="char:EOLhyphen"/>ſome—yet will I reioyce in the Lord, I will be glad in the God of my ſal<g ref="char:EOLhyphen"/>vation.</hi> It is honour to any Ma<g ref="char:EOLhyphen"/>ſter, to ſee his Servant cheerfull at his buſineſſe, and ſtick to him in great hazards; a ſigne he is a good Maſter: So here, God is honoured while his ſervants wait upon him
+<pb n="42" facs="tcp:55467:27"/>
+cheerfully. And, joy of heartes one part of our Maſters allow<g ref="char:EOLhyphen"/>ance: <hi>My ſervants ſhall reioyce,</hi> Iſa. 65.13.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, it would be a good cre<g ref="char:EOLhyphen"/>dit to our holy profeſſion, and draw others to it; as being a foun<g ref="char:EOLunhyphen"/>taine of comfort in the ſadd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt ſtreights and difficulties, Pſal. 46.4. <hi>There is a River, the ſtreames whereof ſhall make glad the City of God.</hi> And who would not enter upon ſo comfortable a courſe of life? All ſeeme willing to live a fine and joyfull life, which is ne<g ref="char:EOLhyphen"/>ver done compleatly, till faith be both gotten and exerciſed.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, if our faith were well acted, we ſhould walk as ſo many tall Gyants, farre above all reach of the evill world, our faith be<g ref="char:EOLhyphen"/>ing our <hi>victory, whereby we over<g ref="char:EOLhyphen"/>come the world,</hi> 1 Joh. 5.4. We ſhould not onely <hi>beare,</hi> but <hi>con<g ref="char:EOLhyphen"/>temne</hi> the contempt of ungodly men:<note place="margin">Heb. 12.2</note> As our Lord, who <hi>deſpiſed the ſhame.</hi> Threaten theſe things to your Courtiers, ſaid the Mar<g ref="char:EOLhyphen"/>tyrs; we have faith, and thereby
+<pb n="43" facs="tcp:55467:27"/>
+are growne hardy. Or promiſe theſe rewards, honours, great ad<g ref="char:EOLhyphen"/>vantages to them that care for them; we have other matters in our heart and eye, and cannot be wonne from the truth.</p>
+               <p>Fiftly, it our faith were duly ſet <milestone type="tcpmilestone" unit="unspecified" n="5"/> on worke, we ſhould undertake great things for the Cauſe, and in the way of God; ſaying in great ſufferings, as the Apoſtle did,<note place="margin">2 Tim. 1.12. 2 Cor. 4.13.</note> 
+                  <hi>I know whom I have beleeved. Ha<g ref="char:EOLhyphen"/>ving the ſpirit of faith,</hi> we would <hi>ſpeake,</hi> and make a good confeſſion in time of need. We would part with our eſtates, yea and lives too, disburſe, fight, apologize, any thing, ſo that our Lord and his Cauſe may be glorified.</p>
+               <p>Sixtly, ſtill as faith is acted, we <milestone type="tcpmilestone" unit="unspecified" n="6"/> ſhall be able to make mighty pray<g ref="char:EOLhyphen"/>ers; prayers that ſhall <hi>availe m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch</hi> for furthering the worke of God: being <hi>prayers of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th,</hi> Jam. 5.15, 16. And we ſhall not be wea<g ref="char:EOLhyphen"/>ry of praying, though we ſeem to ſtrive againſt the ſtreame: No, ſaith Faith, it will be to purpoſe, therefore <hi>pray alway<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m not,</hi> Luke 18.1.</p>
+               <p>
+                  <pb n="44" facs="tcp:55467:28"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Laſtly, if we act our faith, we ſhall be kept from temptations, which great afflictions uſe gene<g ref="char:EOLhyphen"/>rally to bring along with them: as namely, to deſpaire, or uſe in<g ref="char:EOLhyphen"/>direct meanes for helping our ſelves. <hi>He that beleeveth ſhall not make haſt,</hi> Iſa. 28.16. Our faith will be <hi>a ſhield</hi> to us, whereby we ſhall be <hi>able to quench all the fiery da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts of the wicked,</hi> Eph. 6.16. It will be a meanes to keep God with us, and keep us in the way of God; which alwayes hath a ſure recom<g ref="char:EOLhyphen"/>pence of reward.</p>
+            </div>
+            <div n="5" type="section">
+               <head>Section V.</head>
+               <argument>
+                  <p>Motives to act Faith in theſe dangerous times.</p>
+               </argument>
+               <p>
+                  <note place="margin">Motives.</note>Beſide thoſe benefits of acting thy faith, there be divers other conſiderations which may move thee thereunto.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the ſetting of thy faith on work ſetteth God on work, to doe
+<pb n="45" facs="tcp:55467:28"/>
+great things for his people: <hi>Ac<g ref="char:EOLhyphen"/>cording to thy faith be it unto thee,</hi>
+                  <note place="margin">Mat. 8.13</note> ſaid our Lord in the Goſpell; and to <hi>Martha</hi> he ſaid, John 11.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Said I not unto thee, that if thou wouldeſt beleeve thou ſhouldeſt ſee the glory of God? Mordecai</hi> belee<g ref="char:EOLhyphen"/>ved <hi>deliverance would come,</hi> one way or other, and it came accor<g ref="char:EOLhyphen"/>dingly, <hi>Eſt.</hi> 4.14. The three Jewes beleeved God would <hi>ſave</hi> them in the fiery furnace: and they were ſaved, <hi>Dan.</hi> 3.17. The grea<g ref="char:EOLhyphen"/>teſt Beleevers have been the grea<g ref="char:EOLhyphen"/>teſt Receivers, <hi>Heb.</hi> 11. The old Beleevers by faith obtained won<g ref="char:EOLhyphen"/>derfull mercies: All things are poſſible to him that beleeveth: God will doe for them that <hi>give glory</hi> to his Name, which is by faith, <hi>Rom</hi> 4.20. ſuch give him the glory of his power, of his wiſdome, mercy, faithfulneſſe, all his Attributes; and they caſt them<g ref="char:EOLhyphen"/>ſelves wholly upon him, as Cly<g ref="char:EOLhyphen"/>ents on their Counſellour, therefore ſhall not be diſappoin<g ref="char:EOLhyphen"/>ted; yea, <hi>Bleſſed is the man that trusteth in the Lord, and whoſe hope
+<pb n="46" facs="tcp:55467:29"/>
+the Lord is; he ſhall be as a Tree planted by the watters, &amp;c.</hi> Jer. 17.7, 8.</p>
+               <p>But ah this baſe infidelity, which puts our faith ſo much in our eye &amp; cals it ſo often from our hearts too much fleſh, too little faith we beleeve no longer then we ſee ſignes and wonders; ſcarce cheerfull, but while we heare of a victory, or diſcovery, or other mercy; mightily caſt downe at a foyle, or the prevailing of ene<g ref="char:EOLhyphen"/>mies; <hi>Shake as the Trees of the Wood,</hi> when <hi>Rez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> and <hi>Pekah</hi> are joyned together, <hi>Iſa.</hi> 7.1, 2.</p>
+               <p>And it brings little home, as is ſaid of carking care. God being diſhonoured by unbeliefe, with<g ref="char:EOLhyphen"/>draweth his hand, doth not his work, or not yet; ſeeth no veſſell ſet, to receive his precious liquor, and ſo the oyle ceaſeth. Iſrael could <hi>not enter becauſe of unbeliefe,</hi> Heb. 3.19. Good is comming, but we are ſhort-winded, and wait not; thence theſe delayes. All the fault is not in wicked enemies, or the ſinners in <hi>Sion;</hi> but ſome
+<pb n="47" facs="tcp:55467:29"/>
+fault reſideth in Gods owne chil<g ref="char:EOLhyphen"/>dren, who beleeve not as they ſhould doe. Infidelity is an hate<g ref="char:EOLhyphen"/>full ſinne too, and reprovable; it detracteth from God, as if he were not wiſe, able, vigilant to fulfill his promiſes; ſo he ſtayes his hand, as one that will be better waited on.</p>
+               <p>Take notice of this, as one cauſe why the work of Reformation, and of our happineſſe, doth ſtick ſo long in the birth; it is much deſi<g ref="char:EOLhyphen"/>red, but not attained; and yet the Lord willing it ſhould be done, and that throughly: There is cauſe enough for it in the unrefor<g ref="char:EOLhyphen"/>medneſſe of people, who after all the terrours and humiliations, yet <hi>tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n not from their evil ways,</hi> as the men of <hi>Ninive.</hi>
+                  <note place="margin">Jon. 3.10.</note> But here is ſome<g ref="char:EOLhyphen"/>thing in Gods owne people, whoſe faith is ſo little, and their feare ſo great: If we beleeved more, we ſhould ſee his great works done the ſooner: Therefore reſolve up<g ref="char:EOLhyphen"/>on that in Mark 11.22, 23, 24. <hi>Have Faith in God:</hi> And, <hi>What things ſoever ye deſire when ye pray,
+<pb n="48" facs="tcp:55467:30"/>
+beleeve that ye receive them, and ye ſhall have them.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, think thus with your ſelves; why ſhould not faith make couragious, as well as vain-glory, envy, propriety of goods, ſafety of the Country, memory and emulati<g ref="char:EOLhyphen"/>on of Anceſtors, or the like carnall conſiderations, which have migh<g ref="char:EOLhyphen"/>tily elevated the ſpirits of people heretofore; as namely, the old <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> who became Lords of the World;<note place="margin">Cicero.</note> 
+                  <hi>pro aris &amp; focis,</hi> was a great word with them, entring in<g ref="char:EOLhyphen"/>to a fight:<note place="margin">Ovid. Horat.</note> And, <hi>Ingens gloria cal<g ref="char:EOLhyphen"/>car habet;</hi> and, <hi>Dulce &amp; dec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rum eſt, pro patria mori;</hi> and, <hi>Imperti cauſâ, &amp;c.</hi> But faith hath higher and ſtronger conſiderations; the Cauſe of God, the maintaining of the Goſpell, contending for the faith delivered once to the Saints, the upholding and enlarging of the Kingdome of Chriſt, the kee<g ref="char:EOLhyphen"/>ping of a good conſcience, the glory of Heaven in our eye; and who would be a ſlave to Anti<g ref="char:EOLhyphen"/>chriſt? Bodily ſlavery is bad e<g ref="char:EOLhyphen"/>nough, &amp;c.</p>
+               <p>
+                  <pb n="49" facs="tcp:55467:30"/>Conſider; <hi>Their Rock is not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> unto our Rock, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our enem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> being Judges,</hi> Deut 12.31. And, <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s they doe for a co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ptible Crowne, we for an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apitole,</hi> 1 Cor. 9.25. The high<g ref="char:EOLhyphen"/>er the ſpring, the higher the wa<g ref="char:EOLhyphen"/>ter will aſcend at the Conduit. A Beleever therefore, going b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the higheſt Principles and notions ſhould g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t higheſt in his reſolut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ons and behaviours.</p>
+               <p>Thirdly, we have ſtill, and a <milestone type="tcpmilestone" unit="unspecified" n="3"/> long time have had great meanes to be ſtrong in faith; a Miniſtery o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many yee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s continuance, which is growing food, 1 Pet. 2.2. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Wood, that it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> A tree planted in a go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> place, and there continuing m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, is well rooted and ſo ſhould the trees of righteouſneſſe be, af<g ref="char:EOLhyphen"/>ter ſo long ſtanding. The Martyr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had but few yeer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in King <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. time, yet they gathered ſtrength enough, to carry them through the flames. A ſhame it will be to us, not to be proficients according to our time; when <hi>for the time</hi> we
+<pb n="50" facs="tcp:55467:31"/>
+might be Teachers, <hi>Heb.</hi> 5.11. Weakneſſes of faith and other gra<g ref="char:EOLhyphen"/>ces ſhould have been outgrowne long agoe.</p>
+               <p>Adde the going ſo often to the Lords Supper; which to a prepa<g ref="char:EOLhyphen"/>red ſoule is a batling Ordinance. No feaſt yeeldeth ſo good juy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and nouriſhment to the body, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this yeeldeth as good to ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoule. <hi>Bread ſtrengthneth man heart;</hi> eſpecially this bread tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> came downe from Heaven, <hi>Pſa</hi> 104.15. O the ſweet communio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that hath been between Chriſt an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Soule, upon due frequenting the Ordinance! and O the fre<g ref="char:EOLhyphen"/>quent repaſt of thy ſoule up<g ref="char:EOLhyphen"/>on prayer, and the experience thou haſt had of Gods love an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> providence! and doeſt thou ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feare?<note place="margin">Hilarion. Hieron. in eius vita.</note> 
+                  <hi>Septuaginta annos ſervivi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Christo, &amp; mori times.</hi>
+               </p>
+               <p>Finally, the many good Books and Treatiſes, which of late yeer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have been publiſhed;<note place="margin">M. Cul<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>well. M. Rogers.</note> as it were of purpoſe, to fence and furniſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſtians for theſe ſad times wherein are choiceſt collection
+<pb n="51" facs="tcp:55467:31"/>
+for fixing a poore beleeving heart in all occaſions.<note place="margin">M. Ball M. Wilſon.</note> God that fore<g ref="char:EOLhyphen"/>ſaw what he was about to doe, di<g ref="char:EOLhyphen"/>rected his Miniſters, ſo to make proviſion for his people; as when he ſent a ſore famine upon <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> he ſent <hi>Joſeph</hi> beforehand to provide for his Father and Bre<g ref="char:EOLhyphen"/>thren.</p>
+               <p>Fourthly, in thoſe preſent trou<g ref="char:EOLhyphen"/>bles <milestone type="tcpmilestone" unit="unspecified" n="4"/> and dangers, the Lord hath all along opened a <hi>doore of hope,</hi>
+                  <note place="margin">Hoſ. 2.13.</note> for upholding our faith unto vi<g ref="char:EOLhyphen"/>ctory: Seeing how weak weare in beleeving bare promiſes, he hath given us ſomthing in hand for en<g ref="char:EOLhyphen"/>couragement: He hath ſtill ſent us ſome pawnes of more, which he will doe for us in time; an earneſt of the whole bargaine: And ex<g ref="char:EOLhyphen"/>perience is a great help unto faith; as in the Apoſtles,<note place="margin">2 Cor 1.10.</note> 
+                  <hi>He hath delive<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed us from great death, and doth deliver, and we truſt alſo he will de<g ref="char:EOLhyphen"/>liver.</hi> When we began to quaile at any time, preſently a victory was given, a diſcovery made, a de<g ref="char:EOLhyphen"/>feat of their Counſels or Forces, the ſpirits of people raiſed up a<g ref="char:EOLhyphen"/>bove
+<pb n="52" facs="tcp:55467:32"/>
+all expectation, in a Count<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was given for a loſt Count a ſigne the Lord means to doe the work at laſt: If he meant to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtroy us, he would not ſhew us ſuch things as theſe. Thus, by what the Lord hath done already, he doth even invite us to beleeve, and not feare.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, it is but a while, and y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall <hi>ſee</hi> what now ye <hi>beleeve. Y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a little while,</hi>
+                  <note place="margin">Heb. 10.37.</note> 
+                  <hi>and he that ſhall com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will come,</hi> and his reward is with him. In Heaven there will be n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> acting of faith, no uſe of it, as now all there is in <hi>Fruition, Union</hi> and <hi>Viſion:</hi>
+                  <note place="margin">Joh. 20.29</note> In this life, <hi>Bleſſed are they that beleeve, though they ſee not:</hi> In that life, bleſſed are thoſe that ſee what hitherto they beleeved<g ref="char:punc">▪</g> If we ſtrive a little, we ſhall find our waiting was to purpoſe: Yet two or three Cloſes, and we ſhall be at our Fathers houſe. And there we ſhall have neither unbeliefe to combat withall, nor any other e<g ref="char:EOLhyphen"/>nemy; no feare, no moleſtation, no imperfection whatſoever.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixtly, if faith be not acted, ye
+<pb n="53" facs="tcp:55467:32"/>
+will loſe the benefit of thoſe com<g ref="char:EOLunhyphen"/>forts which are your owne: <hi>Ye for<g ref="char:EOLhyphen"/>ſake your owne me<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s,</hi> Jonah 2.8. Ye live heavily, when your eſtate gives you leave to live moſt cheer<g ref="char:EOLhyphen"/>fully. <hi>Hag<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> ſaw <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Well and was out of heart, as if no water were to be bad. <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> ſaw not Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being held<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and was ſtill in perplexity: A miſerly niggard wants what he h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, as well as what he hath not: And to look upon,<note place="margin">Paulum ſepultae, distat in<g ref="char:EOLhyphen"/>ertiae, Ce<g ref="char:EOLhyphen"/>lata vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tus.</note> what difference be<g ref="char:EOLhyphen"/>tween an unbeleever, and a Be<g ref="char:EOLhyphen"/>leever not improving his faith when need requires? One ſighs as much as the other, &amp;c. Now this is a diſparagement to faith, and the high calling of a Chriſtian, who alone in truth hath cauſe to be me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry: A diſcouragement to o<g ref="char:EOLhyphen"/>thers, to come on in ſuch an un<g ref="char:EOLhyphen"/>comfortable profeſſion: An hin<g ref="char:EOLunhyphen"/>deranc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of prayer; a diſhonour to God, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if he made no good allow<g ref="char:EOLhyphen"/>ance to his Servants: And doth the devils owne work, who when he cannot hinder a Chriſtian of the <hi>end</hi> of his way, will doe his
+<pb n="54" facs="tcp:55467:33"/>
+beſt to ſpoyle him of the <hi>comfort</hi> of his way.</p>
+            </div>
+            <div n="6" type="section">
+               <head>Section VI.</head>
+               <argument>
+                  <p>Objections for feare, againſt Faith, anſwered.</p>
+               </argument>
+               <p>Oh (ſay ſome) we have ſo many things to feare, that we know not how to make uſe of our faith: But why ſo? Faith hath a ſtrength at all aſſayes, to help at a dead lift: That if a Chriſtian hold his owne he ſhall wade well through all his feares, and evils feared: All things are poſſible to him that be<g ref="char:EOLhyphen"/>leeveth; to receive, to doe, to ſuf<g ref="char:EOLhyphen"/>fer, to overcome.</p>
+               <p>
+                  <note place="margin">Generall ſalves for the feares of Belee<g ref="char:EOLhyphen"/>vers.</note>Know therefore in generall: Firſt, that the Order of Grace is ſtronger then the Order of Na<g ref="char:EOLhyphen"/>ture: We have many enemies, or troubles, but mo with us then a<g ref="char:EOLhyphen"/>gainſt <milestone type="tcpmilestone" unit="unspecified" n="1"/> us: They are great, but the Lord greater, Omnipotent: And the Angels mightier to ſave,
+<pb n="55" facs="tcp:55467:33"/>
+then devils to hurt us: Divine Ordinances, full of ſolid ſtrength and comfort; and all the Trea<g ref="char:EOLhyphen"/>ſures of Gods love full and inex<g ref="char:EOLhyphen"/>hauſt. If a Beleever look upward he ſeeth an infinite advantage a<g ref="char:EOLhyphen"/>bove them all: The wav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s rage horribly, but <hi>the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d is mightier,</hi> Pſal. 93.3, 4. Tyrants get on high, and are mighty to oppreſſe; but ſtill <hi>he is mightier,</hi> Eccleſ. 5.8. They are crafty; but <hi>he catcheth th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> man their craftineſſe,</hi> 1 Cor. 3.19</p>
+               <p>Secondly, faith <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n ſet the Chri<g ref="char:EOLhyphen"/>ſtian <milestone type="tcpmilestone" unit="unspecified" n="2"/> farre above his own ſtrength; as the ſtrength of others, ſo his owne: <hi>Out of weakneſſe be ſhall be made ſtrong,</hi> Heb. 11.34. He can doe more in a certaine caſe, then at another time. As Martyrs, they endured the flam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; as men, they could never have endu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d them. While <hi>Peters</hi> faith l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſted, he walked upon the waters.</p>
+               <p>Thirdly, in all particular fears,<milestone type="tcpmilestone" unit="unspecified" n="3"/> ſaith hath ſomething to ſay out of the Word, which ſhall ſtay the heart, and counterp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e all the
+<pb n="56" facs="tcp:55467:34"/>
+burden of feares that would clog it. The Word hath a quickning vertue, firſt and laſt: Firſt for re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>neration, afterward for ſuſten<g ref="char:EOLhyphen"/>tation. It is a plentifull Store<g ref="char:EOLhyphen"/>houſe, out of which ſome comfort is ſtill to be fetched: And <hi>David</hi> ſaith, he had periſhed, unleſſe the Word had comforted him.</p>
+               <div type="subsection">
+                  <head>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>To give ſome instances of the fears of godly Christians in theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dayes.</head>
+                  <p>
+                     <note place="margin">
+                        <hi>1.</hi> About loſing the Gospell.</note>
+                     <hi>Obiect.</hi> 1. We feare we ſhall loſe the Goſpell; the maine aime of the Antichriſtian generation that are riſen up amongſt us.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. The Word ſaith, that the Goſpell is at Gods diſpoſing, and not mans, whoever he be. The Starres are <hi>in the right hand of Chriſt,</hi> Rev. 1.16. It is God that <hi>takes away the Word of the Kingdom,</hi> and gives it to others, <hi>Mat.</hi> 21.43. And faithfull Miniſters ſay they ſhall continue at their worke ſo long as God pleaſeth, let all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es and beaſts of the world doe what they can, Luke 13.31, 32.
+<pb n="57" facs="tcp:55467:34"/>
+                     <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and tell that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ox, &amp;c.</hi> They were in ill caſe, if they were at mans diſcretion: Even in times of peace, wicked men would have quite put downe good Miniſters their malice and wickedneſſe hath not been wanting all this while: No thankes to them, that the Goſ<g ref="char:EOLhyphen"/>pell hath continued as it doth.</p>
+                  <p n="2">2. If there ſhould be ſome re<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t, yet not wholly, eſpecially in reſpect of a good heart: <hi>The word of God is not bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d,</hi> 2 Tim. 2.9. The beleeving heart ſhall be mervailouſly fed with the old ſtore it gathered. There is an <hi>hid<g ref="char:EOLhyphen"/>den Manna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>:</hi> And,<note place="margin">Rev. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.19.</note> the Word of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d abideth in you.</p>
+                  <p>As for the Elect that are not yet gathered, the Word ſhall goe forth and reach the mall: It ſhall <hi>have a free courſe, and be glorified,</hi> 2 Theſ. 3.1. When God hath a people to gather,<note place="margin">Act. 18.10, 11.</note> though there be <hi>many Adverſaries,</hi> yet Preachers ſhall both goe and continue there, 1 Cor. 16.8, 9. <hi>I have much peo<g ref="char:EOLhyphen"/>ple in this City; abide here.</hi> And <hi>Jeremies</hi> preaching did good to
+<pb n="58" facs="tcp:55467:35"/>
+ſome, though the moſt curſed him, chap. 15.11. The Election obtai<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh the reſt be hardned: The Elect muſt be <hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aled,</hi> before <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y hurt can be done, Rev. 7.3.</p>
+                  <p n="3">3. The Word ſaith, that if it ſhould be ſuppreſſed a while, yet it ſhall be reſtored againe. Tea<g ref="char:EOLhyphen"/>chers ſhall <hi>not be removed into cor<g ref="char:EOLhyphen"/>ners any more,</hi> Iſa. 30.20. They muſt fall to their work againe, Rev. 10.11. <hi>Thou muſt propheſie againe:</hi> After three dayes and an half, <hi>the two Witneſſes revived and ſtood up,</hi> chap. 11.11.</p>
+                  <p>And commonly the ruines of the Church are reſtored with much advantage, the Ordinances pur<g ref="char:EOLhyphen"/>ged from the corruptions that at<g ref="char:EOLhyphen"/>tended them: <hi>The glory of the lat<g ref="char:EOLhyphen"/>ter houſe greater</hi> then that of the former, Hag. 2.9. All reduced to the rule and ſtandard of the Word; noting (by Gods ſeverity) wherein they offended, and pro<g ref="char:EOLhyphen"/>voked him to wrath: <hi>Aſhamed of their iniquities,</hi> and all errours, and ſo the Lord <hi>ſhewes them the form of the houſe,</hi> Ezek. 43.10, 11.</p>
+                  <p n="4">
+                     <pb n="59" facs="tcp:55467:35"/>4. The Word ſaith, that the e<g ref="char:EOLhyphen"/>nemies of it ſhall be utterly con<g ref="char:EOLhyphen"/>founded and brought to an end; ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cially Antichriſt, that grand friend of Traditions and humane Conſtitutions; downe he muſt go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> notwithſtanding all his pillars and ſupporter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: <hi>He goeth into pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on,</hi> Rev 17.11. Though he get breath a while, and ſome lightning before death, yet that is his end. The end of theſe warres will be at the gates of <hi>Rome,</hi> all in flames and e<g ref="char:EOLhyphen"/>verlaſting deſolation.</p>
+                  <p>
+                     <hi>Obiect.</hi>
+                     <note place="margin">
+                        <hi>2.</hi> About the diſho<g ref="char:EOLhyphen"/>nour of God. <hi>Sect. 1.</hi>
+                     </note> 2. God will be diſho<g ref="char:EOLhyphen"/>noured and blaſphemed if the wic<g ref="char:EOLhyphen"/>ked prevaile.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. In this caſe your fear is moſt lawfull, and beſt allowed; becauſe (as we have ſeen before) both God and godly men have e<g ref="char:EOLhyphen"/>ver ſo feared: And I may tell you, ye have cauſe to rejoyce, that ye have ſuch holy fears as the feare.</p>
+                  <p n="2">2. The Word ſaith, that God is <hi>a Jealous God,</hi> and will look to his owne <hi>glory;</hi> will not ſuffer the enemies, or Idols, to get it from him, <hi>Iſa,</hi> 42.8. Yea, he will get
+<pb n="60" facs="tcp:55467:36"/>
+glory over them all, as over the Egyptians and all their <hi>gods,</hi> Ex. 12.12. and will turne all their <hi>fury to his owne p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe;</hi>
+                     <note place="margin">Pſ. 76.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> being the more illuſtrious by their diſap<g ref="char:EOLhyphen"/>pointment.</p>
+                  <p>True; it was a ſword to <hi>Davids</hi> heart, to heare the wicked ſay, <hi>Where i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thy God?</hi>
+                     <note place="margin">Pſ. 42.10.</note> but if the Lord be patient, why ſhould not we? onely our duty is, to mourne for ſuch blaſphemies, and pray to the contrary.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>3.</hi> Above a forreigne invaſion.</note>
+                     <hi>Obiect.</hi> 3. I feare that forreign<g ref="char:EOLhyphen"/>ers will invade, and they will ſhew no mercy.</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word tels; firſt, that the ſpirits and minds of men are in Gods hand, <hi>Exodus</hi> 34.24. they ſhall <hi>not think of invading,</hi> while his people are buſie in his worſhip: Or, he can let them ſee where the Right goeth; that they ſhall let all alone and not med<g ref="char:EOLhyphen"/>dle.</p>
+                  <p>Secondly, that the Lord can make <hi>the earth to help the woman,</hi> Rev. 12.16. Earthly men ſhall beare the burthen of one anothers
+<pb n="61" facs="tcp:55467:36"/>
+malice, and ſo his people eſcape it. <hi>Moa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tes</hi> and <hi>Ammonites</hi> fell to cutting one another, and ſo <hi>Je<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>poa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> eſcaped. While they have work enough to doe at home, they ſhall not intend to trouble us.</p>
+                  <p>Thirdly, that the Lord <hi>makes f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll the ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es of our gates,</hi> and is a <hi>wall of fire</hi> round about us;<note place="margin">Zech. 2.5.</note> the Rereward, the Shield, all in all to us: Though we have but a watry-wall about our Iſland, yet in God it may prove too high and ſtrong to be ſealed. Our woodden houſes may ſwimme a<g ref="char:EOLhyphen"/>bout, and keepe out the ene<g ref="char:EOLhyphen"/>mies.</p>
+                  <p>Fourthly, there may be for<g ref="char:EOLhyphen"/>reigne friends as well as foreigne enemies; and ſtronger then they, wiſer then they, more ſuccesfull then they, as the Lord can make them. The hearts of all are in the hand of God, who ſtill fol<g ref="char:EOLhyphen"/>lowes his owne work, and uſeth what Inſtruments he pleaſeth. And we ſee he hath brought in one friendly Nation already.</p>
+                  <p>
+                     <pb n="62" facs="tcp:55467:37"/>
+                     <note place="margin">
+                        <hi>4.</hi> About the defect of friends.</note>
+                     <hi>Obiect.</hi> 4. I feare our Wor<g ref="char:EOLhyphen"/>thies in Parliament will be wea<g ref="char:EOLhyphen"/>ry, diſcouraged, too few, and ſo the work may ceaſe.</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word ſaith, that the Lord hath yet <hi>the reſidue of Spirit,</hi> Mal. 2.15. It is but pou<g ref="char:EOLhyphen"/>ring out of more Spirit, and they ſhall renew their ſtrength and courage: Or if one faile, ano<g ref="char:EOLhyphen"/>ther ſhall ſtand up in his place. Certainly, he that hath ſo raiſed and upheld them hitherto, will continue them to us, and his owne work by them.<note place="margin">Jud. 13.23</note> 
+                     <hi>If he meant to de<g ref="char:EOLhyphen"/>ſtroy them, he would not have ſhew<g ref="char:EOLhyphen"/>ed them ſuch things as theſe.</hi> And who ever heard of a people in Covenant with God, and ſtudy<g ref="char:EOLhyphen"/>ing Reformation, wholly forſa<g ref="char:EOLhyphen"/>ken? 2 Chron. 15.2. <hi>The Lord is with you, while ye are with him.</hi> And he ſheweth ſince the Cove<g ref="char:EOLhyphen"/>nant laſt entred into (by many great and notable victories) that he intends them good, and us by them. Beleeve therefore, they ſhall be worthy inſtruments of more glory to God, and of more
+<pb n="63" facs="tcp:55467:37"/>
+good to his people; Zech. 4.9. <hi>The <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ands of</hi> Zerubbabel <hi>have layd the foundation of this houſe, his hands alſo ſhall finiſh it.</hi>
+                  </p>
+                  <p>
+                     <hi>Obiect.</hi> 5.<note place="margin">
+                        <hi>5.</hi> Of the want of Treaſure. <hi>Pſal. 24.1.</hi>
+                     </note> I feare our moneys will faile; the ſinews of War.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. The Word ſaith, <hi>The earth is the Lords, and the ful<g ref="char:EOLhyphen"/>neſſe thereof.</hi> And he can make our Newters, Malignants and Miſers, to bring forth their trea<g ref="char:EOLhyphen"/>ſures: Or ſpring a new mine, for ſupply ſome other way.</p>
+                  <p n="2">2. It ſaith,<note place="margin">1 Cor. 1.27.</note> that he <hi>makes the weak to confound the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ghty:</hi> And in like reaſon, the poore to over<g ref="char:EOLhyphen"/>throw the rich. When men ſee their eſtates gone, they wax deſ<g ref="char:EOLhyphen"/>perate: Neceſſity hath been cal<g ref="char:EOLhyphen"/>led a terrible weapon: And it is evident, that riches cannot get victories. <hi>The battel is not to the ſtrong,</hi> Eccleſ. 9.11. The event of a battell belongs wholly to God; Prov. 21.31. <hi>The Horſe is prepared againſt the day of battell; but ſafety is of the Lord.</hi>
+                  </p>
+                  <p>
+                     <hi>Obiect.</hi> 6.<note place="margin">
+                        <hi>6.</hi> About our ſinnes l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt they hinder.</note> I could truſt other<g ref="char:EOLhyphen"/>wiſe;
+<pb n="64" facs="tcp:55467:38"/>
+but feare our ſinnes will hinder good things.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. The Word ſaith, that God doth his great works for Church <hi>freely:</hi> Onely becauſe mercy pleaſeth him. <hi>I w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for my Names ſake,</hi> often in Ezek. 20. and 36.32. <hi>Not for your ſakes doe I this, &amp;c.</hi>
+                  </p>
+                  <p n="2">2. If our ſinnes could hinder, we ſhould not have ſeen any of theſe great deliverances and vi<g ref="char:EOLhyphen"/>ctories. We have ſinnes enough to have laid us deſolate long agoe: Not a remnant had been left be<g ref="char:EOLhyphen"/>fore this time. Onely the Lord ſeems to have paſt by the ſinnes of the remnant of his people, and ſo we are ſaved by a great delive<g ref="char:EOLhyphen"/>rance.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>7.</hi> About triall to ſome par<g ref="char:EOLhyphen"/>ticular.</note>
+                     <hi>Obiect.</hi> 7. I feare we may ſuffer for a while, as our Bre<g ref="char:EOLhyphen"/>thren have done; and for my part, I doubt I ſhould ſhew much weakneſſe when I come to the tryall.</p>
+                  <p>
+                     <note place="margin">Luk. 12.4 2 Cor. 12.9.</note>
+                     <hi>Anſw.</hi> 1. Chriſt ſaith, <hi>Feare not them that kill the body.</hi> Se<g ref="char:EOLhyphen"/>condly, his grace is <hi>ſufficient</hi> for
+<pb n="65" facs="tcp:55467:38"/>
+thee, as well as for others:<note place="margin">Joh. 10.28.</note> None ſhall <hi>pluck his Sheep out of his <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>s:</hi> None ſhall ſeperate from his love. Thirdly, in the try<g ref="char:EOLhyphen"/>all God ſtands by his people more then at other times, to ſhew himſelfe ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ong in a weak Crea<g ref="char:EOLhyphen"/>ture, 2 Cor. 12.9. <hi>In the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r weak<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> his power is the more glori<g ref="char:EOLhyphen"/>fied and manifeſted: He will be with them in ſix troubles, and in ſeven; in fire and in water: So that ye may <hi>ſay boldly,</hi> The Lord is with us; we will not feare what man can doe unto us. <hi>Heb.</hi> 13.6.<note place="margin">
+                        <hi>8.</hi> About Martyr<g ref="char:EOLhyphen"/>dome.</note>
+                  </p>
+                  <p>
+                     <hi>Object.</hi> 8. What if I ſhould be put to ſuffer Martyrdome? I ſhrink to think of it.</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word ſaith,<note place="margin">Rom 8.37</note> 
+                     <hi>we are more th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> through him that loved us:</hi> And we may ſay accordingly. Firſt, the Martyrs were fleſh and blood as we are: O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> themſelves weak, and no more able to endure thoſe extre<g ref="char:EOLhyphen"/>mities then other men. They ſuffered nothing in their owne ſtrength but by faith; and you have faith as well as they. Se<g ref="char:EOLhyphen"/>condly,
+<pb n="66" facs="tcp:55467:39"/>
+God is the ſame God now, as then; and will put forth the ſame ſtrength in you, as in them.<note place="margin">Iſa. 59.1.</note> 
+                     <hi>His hand is not ſhortned;</hi> neither will his promiſe faile. He is <hi>God al-ſufficient;</hi>
+                     <note place="margin">Gen. 17.1</note> and ſtill <hi>the ſame</hi> to his Church, as in the dayes of old, <hi>Iſa.</hi> 46.3, 4.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>9.</hi> About the endu<g ref="char:EOLhyphen"/>ring of hardſhip.</note>
+                     <hi>Obiect.</hi> 9. I ſhall not be able to endure cold, hunger, priſon, re<g ref="char:EOLhyphen"/>proach, &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word ſaith, theſe are vanquiſhed enemies, and diſ<g ref="char:EOLhyphen"/>abled in the maine; <hi>Rom.</hi> 8.35. And all the gates of hell ſhall not prevaile againſt the Church: And defiance may be made a<g ref="char:EOLhyphen"/>gainſt them, as there, <hi>who ſhall ſeperate?</hi> who ſhall <hi>accuſe</hi> or <hi>con<g ref="char:EOLhyphen"/>demn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>?</hi> And aſſurance had, that we ſhall not flinch for any of them: <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>I am perſwaded that neither death nor life—ſhall be able to ſeperate us from the love of God, which is in Chriſt Jeſus our Lord.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">
+                        <hi>10.</hi> About Children left to the world.</note>
+                     <hi>Obiect.</hi> 10. What ſhall become of my poore Children;</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word ſaith, the
+<pb n="67" facs="tcp:55467:39"/>
+Covenant reacheth the Children as well as the Parents, Gen. 17.7. <hi>I am thy God, and the God of thy ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed.</hi> They ſhall therefore find a Father in Heaven, when none is on earth. And promiſes to be performed, which will prove large portions; and friends on earth which you little think of: Even <hi>an hundred fold, Fathers and Mothers, &amp;c.</hi> Mark 10.29, 30. And it hath been obſerved, that the Children of Martyrs have re<g ref="char:EOLhyphen"/>ceived ſpeciall bleſſings from God, eſpecially in their ſouls.</p>
+                  <p>
+                     <hi>Obiect.</hi>
+                     <note place="margin">
+                        <hi>11.</hi> About the loſſe of Friends.</note> 11. How ſhall we live if my husband be ſlaine? or ſome other friend by whom I live?</p>
+                  <p>
+                     <hi>Anſw.</hi> The Word ſaith, that <hi>Man lives not by bread onely,</hi>
+                     <note place="margin">Mat. 4.4.</note> 
+                     <hi>but by every word that proceedeth out of the mouth of God.</hi> And is not the Lord better to thee, then ten husbands, or ten friends? And, who multiplied the meale in the barrell, and oyle in the cruſe? Who gave a bleſſing to <hi>Daniels</hi> courſe fare, that he looked better then any of the Kings Children?
+<pb n="64" facs="tcp:55467:40"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="65" facs="tcp:55467:40"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="66" facs="tcp:55467:41"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="67" facs="tcp:55467:41"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="68" facs="tcp:55467:42"/>
+Who fed ſo many thouſand with two barly loaves and a few in all fiſhes. True, <hi>miracles</hi> are ceaſed, but not <hi>Providence,</hi> and that ſome<g ref="char:EOLhyphen"/>times in a ſtrange way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> God can and will doe <hi>above what we ask or think,</hi> Eph. 3.20.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>12.</hi> About ſin forced upon a good ſoule.</note>
+                     <hi>Obiect.</hi> 12. I feare my Cha<g ref="char:EOLhyphen"/>ſtity may be violated, or ſome other ſinne forced upon me, which would be a terrour to my ſoule, and break the band between God and me.</p>
+                  <p>
+                     <note place="margin">Suidas.</note>
+                     <hi>Anſw.</hi> 1. It was <hi>Origens</hi> ſinne, for avoyding the filthy Black more to burne incenſe to the Idoll. <hi>No evill may be done that good may come of it,</hi> Rom. 3.8. Secondly, <hi>He that doth worng</hi> (ſaith the Word) <hi>ſhall ſuffer according to the wrong he doth,</hi> Col. 3.25. not he that ſuffereth wrong. No ſinne hurts, to which conſent is not gi<g ref="char:EOLhyphen"/>ven: It is the others ſinne, thy ſorrow.<note place="margin">Tarquin. &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ucret. Aug.</note> 
+                     <hi>Two in the adultery, yet but one adulterer.</hi> Thirdly, the Lord (who is moſt mercifull) will not preſently breake with his Child, when hurried to ſinne by
+<pb n="69" facs="tcp:55467:42"/>
+temptation, or violence of per<g ref="char:EOLhyphen"/>ſecution. No;<note place="margin">Iſa. 30 18. Pſal. 103.14.</note> he is <hi>a God of J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dgment, knoweth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ame,</hi> and that we are but <hi>duſt,</hi> and will remember his Covenant; an ever<g ref="char:EOLhyphen"/>laſting Covenant.</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <head>Section VII.</head>
+               <argument>
+                  <p>Make much of Faith, which is ſo uſefull; and other Co<g ref="char:EOLhyphen"/>rolaries of the point.</p>
+               </argument>
+               <p>Faith being ſo ſtrong and effe<g ref="char:EOLhyphen"/>ctuall a meanes to ſettle the heart in evill times,<note place="margin">Faith to be <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed. M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> it will be good wiſdome for Chriſtians to make much of their faith; to cheriſh it, ſtrengthen it, fix it, and be ad<g ref="char:EOLhyphen"/>ding to it daily. Souldiers will keep their Forts well, that their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts may keep them. And alike muſt Beleevers doe for their faith, which is ſo much for their turne every way. It were folly to
+<pb n="70" facs="tcp:55467:43"/>
+complaine of a troubled ſpirit about theſe troublous times, and not be earneſt in preſerving and increaſing faith, which ſhould fa<g ref="char:EOLhyphen"/>ſten and quiet the heart. It were a ſinfull neglect of the meanes, which God in great wiſdome and love hath ſet apart for the reme<g ref="char:EOLhyphen"/>dy. We have ſeen grounds e<g ref="char:EOLhyphen"/>nough for our confirmation; which if they be well improved, would both preſerve and increaſe our faith.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Ariſt.</note> It is a rule, that <hi>all things are nouriſhed of the ſame matter, whereof they are bred.</hi> Therefore,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, be diligent and conſcio<g ref="char:EOLhyphen"/>nable in the uſe of the Word, publique and private, whereby faith <hi>commeth</hi> at firſt, and after<g ref="char:EOLhyphen"/>ward is encreaſed. The Word is <hi>ſincere milk,</hi>
+                  <note place="margin">Rom. 10.17.</note> 
+                  <hi>whereby new-borne Babes may grow,</hi> 1 Pet. 2.2. A child thrives beſt by the Mothers milk: In the Word are promiſes to be ever met withall, in all particulars: And as good <hi>Evi<g ref="char:EOLhyphen"/>dences</hi> for houſe or land, well peruſed, doe much cleer a mans
+<pb n="71" facs="tcp:55467:43"/>
+title to the thing: So the Scrip<g ref="char:EOLhyphen"/>tures, well ſearched and applyed, doe ſtrongly cleere the righteous mans Evidence for Heaven. The failing of Chriſtians is, when they wax negligent in the Word, or if they turne aſide to viſions, or other fancies; no food ſo nou<g ref="char:EOLhyphen"/>riſhing, as Gods Word duly re<g ref="char:EOLhyphen"/>garded. They that are <hi>planted in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> houſe of God, are fat and flou<g ref="char:EOLhyphen"/>riſhing, and bring forth fruit in old age,</hi> Pſal. 92.14.</p>
+               <p>Secondly, be frequent and ſe<g ref="char:EOLhyphen"/>rious <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+in going to the Lords Ta<g ref="char:EOLhyphen"/>ble; where is a fatning Banket to the prepared and worthy Re<g ref="char:EOLhyphen"/>ceiver. No feaſt yeeldeth better nouriſhment to the body, then this to the ſoule. This is the true Sacrament of Confirmation: This is <hi>a Medicine that expelleth all e<g ref="char:EOLhyphen"/>vils;</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Ignat. ad Epheſ.</note> both unbeliefe and all the heavy paſſions that iſſue from it. Onely get a good appetite, pre<g ref="char:EOLhyphen"/>pare, examine, come fitted to re<g ref="char:EOLhyphen"/>ceive a bleſſing: The Maſter of the Feaſt would not be wanting to his owne Ordinance, if his Gueſts
+<pb n="72" facs="tcp:55467:44"/>
+were not wanting to themſelves. Spirituall ſloath, fooliſh curioſity, turning to vaine janglings, are maine hinderances of the benefit which that bleſſed Ordinance is reany otherwiſe to afford.</p>
+               <p>Thirdly, frequent lovingly, and improve wiſely, the Commu<g ref="char:EOLhyphen"/>nion of Saints, which ye profeſſe to beleeve; theſe are able to ſa<g ref="char:EOLhyphen"/>tisfie your doubts, mind you of promiſes, produce experiences, comfort you, beare you up, and doe much for fixing you on your Rock: United forces doe back one another: As iron ſharpneth iron, ſo the face of one Chriſtian ſtrengtheneth &amp; heereth another. But <hi>woe be to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m that is alone.</hi>
+                  <note place="margin">Eccl. 4.10</note> It he fall, who ſhall raiſe him up<g ref="char:punc">▪</g> And the devill deſireth no bette<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> advantage, then to find Chriſtians ſolitary and private-minded. When <hi>Thomas</hi> was abſent from the reſt of his fellowes,<note place="margin">Joh. 22.25</note> he grew to a ſturdy kind of unbeliefe; <hi>Unleſſe I may feele, I will not beleeve.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, pray much and ear<g ref="char:EOLhyphen"/>neſtly, for the increaſing and
+<pb n="73" facs="tcp:55467:44"/>
+acting of thy faith,<note place="margin">Mar. 9.24 Luk. 17.5</note> 
+                  <hi>Lord help my unbeliefe, Lord increaſe our faith.</hi> Pray to be able to live the life of faith; to truſt perfectly in the grace revealed; to have the uſe of thy faith when need is; to have thy heart fixed by belee<g ref="char:EOLhyphen"/>ving. What is not the Lord able and willing to doe for them that cry unto him? Hath he not pro<g ref="char:EOLhyphen"/>miſed to returne a gracious an<g ref="char:EOLhyphen"/>ſwer? Even a naturall Father will regard and pitty the mone which his poore child maketh.</p>
+               <p>Fifthly, recount and ſearch out <milestone type="tcpmilestone" unit="unspecified" n="5"/> the promiſes, which are the ſame to the feeding of faith, as oyle is to the feeding of a lamp; ſoone extinguiſhed if fuell be with-held. <hi>Abraham</hi> was ſtrong in faith, be<g ref="char:EOLhyphen"/>cauſe he had both eyes upon the promiſes. Promiſes will make us <hi>Partakers of the divine nature,</hi> 2 Pet 1.4. Heires of promiſe ſhould live on promiſes, as their owne proper element and nou<g ref="char:EOLhyphen"/>riſhment. A Beleever, forget<g ref="char:EOLhyphen"/>ting the promiſes, is as a fiſh on dry land. Gods people of old
+<pb n="74" facs="tcp:55467:45"/>
+were buſie in <hi>ſearching</hi> out pro<g ref="char:EOLhyphen"/>miſes, when the ſearch was diffi<g ref="char:EOLhyphen"/>cult, obſcure, and nothing ſo com<g ref="char:EOLhyphen"/>fortable, as now in the light of the Goſpell, 1 Pet. 1.11, 12.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixtly, meditate on the Attri<g ref="char:EOLhyphen"/>butes of God, which have great power to make us beleeve any thing which the Lord hath pro<g ref="char:EOLhyphen"/>miſed. He is <hi>able</hi> who promiſed; he is <hi>faithfull</hi> who promiſed,<note place="margin">Rom. 4.21. 1 Theſ. 5.24.</note> &amp;c. All of them are engaged for our good; as himſelf, who is our God, by a firme Covenant: And faith will ſubſume; I beleeve in God Almighty: What cannot he doe who is Almighty? I beleeve in the onely-wiſe God, who is Omniſci<g ref="char:EOLhyphen"/>ent; and what cannot ſuch a one invent? I beleeve in him who is the ſearcher of reynes, and know<g ref="char:EOLhyphen"/>eth the hidden things of darkneſſe, what wicked plot cannot he diſ<g ref="char:EOLhyphen"/>cover? I beleeve in him who is true and faithfull; what word of his ſhall fall to the ground? So in the other: A Dwarfe with a Gyant on his ſide waxeth reſolute and valiant. When the eye is ta<g ref="char:EOLhyphen"/>ken
+<pb n="75" facs="tcp:55467:45"/>
+oft from one-ſelfe, and all e<g ref="char:EOLhyphen"/>nemies or other incumbrances, and kept cloſe upon God; how ſtrong will faith he, and the heart unmovable?</p>
+               <p>Seventhly, ſtrengthen thy faith <milestone type="tcpmilestone" unit="unspecified" n="7"/> by the experiments thou haſt had of God formerly, and others have had. His works, partly done, partly in doing, invite confidence for time to come. The reaſon is, becauſe the Lord is ever the ſame, inexhauſt, unweariable, his hand not ſhortned, nor his eare heavy, but he can and will help his peo<g ref="char:EOLhyphen"/>ple to the uttermoſt: To like perſons, in the like way, and be<g ref="char:EOLhyphen"/>leeving alike, he will be alike in diſpenſing his mercies.<note place="margin">Mal. 3.6.</note> 
+                  <hi>I am the Lord, I change not, therefore ye ſonnes of</hi> Jacob <hi>are not conſumed.</hi> Therefore alſo collect as <hi>David,</hi> 1 Sam. 17 36. and as <hi>Paul,</hi> 2 Tim. 4.17, 18. It is a great help to a Beleever, to <hi>remember the yeers of the right hand of the moſt high.</hi> Pſal. 77.10. and call to mind what he hath done for his Church and people formerly; to the Church
+<pb n="76" facs="tcp:55467:46"/>
+in <hi>Aegypt,</hi> in the Wilderneſſe, in <hi>Hamans</hi> time, in other exigences. Others have fared well, while they waited on God; therefore we alſo will wait, and doubt not but to doe well enough, Pſal. 22.4, 5. <hi>Our Fathers truſted in thee; they truſted and thou didſt deliver them: They cryed unto thee, and were de<g ref="char:EOLhyphen"/>livered; they rusted in thee and were not confounded.</hi>
+               </p>
+               <p>Thus fortifie your faith as much as ye can, and it will be a ſtrong fortifying of your ſpirits in all feares of evill. A ſtrong and healthy body getteth up a high hill farre better then a weakling can doe. If our faith were ſtron<g ref="char:EOLhyphen"/>ger, our hearts ſhould be more fixed and ſetled then they are. If it were the <hi>fall aſſurance of faith,</hi>
+                  <note place="margin">Heb. 10.22.</note> we ſhould not once doubt for all theſe terrours.<note place="margin">Mark 11.13.</note> Remember the <hi>re<g ref="char:EOLhyphen"/>moving of mountaines,</hi> and tranſ<g ref="char:EOLhyphen"/>planting of trees into the midſt of the ſea; all by the power of faith: Onely beleeve, and all ſhall be poſſible.</p>
+               <div type="subsection">
+                  <pb n="77" facs="tcp:55467:46"/>
+                  <head>Other Conſequences of the point are theſe.</head>
+                  <p n="1">I. Be thankfull for this preci<g ref="char:EOLhyphen"/>ous grace of faith,<note place="margin">Be thank<g ref="char:EOLhyphen"/>full for the uſefull grace of Faith.</note> which is ſo uſe<g ref="char:EOLhyphen"/>full in theſe dangerous dayes; the ſtaffe of thy life, the ſtrength of thy ſoule, the fix<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng of thy poore trem<g ref="char:EOLhyphen"/>bling heart, the only ſight thou haſt when round about is nothing but darkneſſe. A great and won<g ref="char:EOLhyphen"/>derful gift thou receivedſt when the Lord gave thee faith, to be<g ref="char:EOLhyphen"/>leeve in his Sonne and reſt in pro<g ref="char:EOLhyphen"/>miſes. It is worth the having, though thou paſtedſt through the pikes; in duties of humiliation. It coſt ſome adoe to get faith; but when it is once had, it is a moſt bleſſed commodity: It ſtands thee in ſtead ever afterward, whatever ſad occaſions thou haſt. The Jay<g ref="char:EOLhyphen"/>lor (though much caſt downe for a while,<note place="margin">Act. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.34.</note> yet) <hi>reioyced that he belee<g ref="char:EOLhyphen"/>ved and all his houſhold.</hi> And thoſe primitive Beleevers, who were <hi>pricked at the heart</hi> in hea<g ref="char:EOLhyphen"/>ring of their great ſinne, <hi>reioyced and praiſed God</hi> for ſo great a mer<g ref="char:EOLhyphen"/>cy, <hi>Acts</hi> 2.44, 47. Goe thou and
+<pb n="78" facs="tcp:55467:47"/>
+doe likewiſe: We give thanks for leſſer mercies then this: Or, what if the Lord give thee not riches, health, peace, and the like? Yet he gives that which is better, and countervailes all other defects, with infinite advantage on the e<g ref="char:EOLhyphen"/>ternall part.</p>
+                  <p n="2">
+                     <note place="margin">Doe thy beſt to work faith in others.</note>II. If things goe thus, then doe all ye can to get faith into your children and friends; as ye deſire they ſhould have found and hear<g ref="char:EOLhyphen"/>ty comfort in the evill day: Ye would not ſee them lye diſtracted, malancholie, drooping under their burden, taking indirect courſes to help themſelves. Now lay a good foundation, not onely in morall vertues, or religious du<g ref="char:EOLhyphen"/>ties, but goe higher; tell them of Chriſt, of the Covenant, the pro<g ref="char:EOLhyphen"/>miſes, ſinne and guiltineſſe, their need of a Saviour, and the like. It is a great matter,<note place="margin">Pſ, 112.1.</note> to <hi>feare God and delight greatly in his Comman<g ref="char:EOLhyphen"/>dements:</hi> This Text is a promiſe to ſuch perſons; but note withall, it goeth higher, even to that ſove<g ref="char:EOLhyphen"/>reigne grace of faith; <hi>His heart is
+<pb n="79" facs="tcp:55467:47"/>
+fixed trusting in the Lord.</hi>
+                     <note place="margin">verſe 7.</note> And it was <hi>by faith</hi> that the old Beleevers d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, ſuffered, or received thoſe great matters, <hi>Heb.</hi> 11. Therefore in all thy inſtruction and diſci<g ref="char:EOLhyphen"/>pline, ſtill inſinuate ſomething for faith. Get that notion into their heads and hearts, <hi>None but Chriſt,</hi>
+                     <note place="margin">Jo. Lam<g ref="char:EOLhyphen"/>bert. Advance a faithfull Ministery, whereby faith is be<g ref="char:EOLhyphen"/>ſtowed.</note> 
+                     <hi>None but Chriſt.</hi>
+                  </p>
+                  <p n="3">III. If it be ſo, then advance a faithfull Miniſtery, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the meanes whereby faith is bred, and thereby a ground laid for ſolid comfort in times of feare: Plant ſuch a Miniſtery where it is wan<g ref="char:EOLhyphen"/>ting; cheriſh and maintaine it where it is: Pitty them that want the Ordinance; pray they may have the Word of faith preached among them:<note place="margin">Mat. 6.38</note> 
+                     <hi>Pray the Lord of the Harveſt, to ſend forth Labourers in<g ref="char:EOLhyphen"/>to his Harveſt.</hi> If rich, be at char<g ref="char:EOLhyphen"/>ges; if in authority, give counte<g ref="char:EOLhyphen"/>nance to a faith-breeding Mini<g ref="char:EOLhyphen"/>ſtery. This is the onely way for poore ſoules to be ſoundly comfor<g ref="char:EOLhyphen"/>ted when their tryall commeth. Comfort ſtands not in a ſmarte<g ref="char:EOLhyphen"/>ring knowledge, or a few good
+<pb n="80" facs="tcp:55467:48"/>
+words, or ſaying over ſome good prayers, or the like; but if faith were beſtowed into the heart, which alone can quicken a ſoule, otherwiſe dying. No grace nor vertue can knit a knot betweene God and the ſoul, but onely faith. Faith truly ſo called is of a laſting nature, whatever tryals there be; and of a triumphing nature, 1 Pet. 1.7, 8. <hi>Beleeving, ye re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce with ioy unſpeakable and full of glory.</hi> And if ſo, how worthy are thoſe pains, whereby faith is conveyed into the heart, and afterward confirmed?</p>
+                  <p n="4">
+                     <note place="margin">Take faiths part againſt a faithleſſe generation. <hi>2 Pet. 1.1.</hi>
+                     </note>IV. Ever commend, and ſtand in the magnifying of faith, which doth ſo good offi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es in the worſt times. Call it a <hi>prec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ous faith,</hi> much to be eſteemed and prized: Endure not any word of diſpa<g ref="char:EOLhyphen"/>ragement to be caſt upon it. There is a carnall generation of men and wom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, who doe much ſlight and villifie faith, as an ayrie No<g ref="char:EOLhyphen"/>tion, a trifle, nothing in compari<g ref="char:EOLhyphen"/>ſon of Charity and good works: Oh here is much adoe about faith,
+<pb n="81" facs="tcp:55467:48"/>
+theſe are our Solifidians, &amp;c. Whereto I ſay;</p>
+                  <p>Firſt, neither charity nor works <milestone type="tcpmilestone" unit="unspecified" n="1"/> are any thing without faith, Heb. 11.6. <hi>Without faith it is impoſſible to pleaſe G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d.</hi> It is in Chriſt on<g ref="char:EOLhyphen"/>ly, that we and our graces are ac<g ref="char:EOLhyphen"/>cept<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. No merit in charity, nor the works of it; onely in Chriſt they get acceptance: Yea, in faith it ſelfe is nothing meritorious; all the vertue and praiſe of it ſtan<g ref="char:EOLhyphen"/>deth in relation to Chriſt the Ob<g ref="char:EOLhyphen"/>ject.</p>
+                  <p>Secondly, it is faith that muſt <milestone type="tcpmilestone" unit="unspecified" n="2"/> uphold the heart in an evill time. When dangers be abroad, and feares come home to us, this is our anchor to be ſtaid withall: We have ſeen how much is caſt upon faith to doe in theſe ſad plucks. What we have done in an holy way may be a comfort; but the ſtreſſe of the buſineſſe lyeth on this, how well we have beleeved, and what intereſt we have in Chriſt, Pſal. 27.13. <hi>I had fainted unles I had beleeved to ſee the good<g ref="char:EOLhyphen"/>neſſe of the Lord in the Land of the
+<pb n="82" facs="tcp:55467:49"/>
+living.</hi> And the comfort of the good we have done, comes in a ſe<g ref="char:EOLhyphen"/>condary conſideration:<note place="margin">Heb. 10.4</note> In that ye did it to theſe, ye did it unto me. <hi>By faith Abel</hi> offered a better ſacrifice them <hi>Cain.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, faith ever will produce good works;<note place="margin">Fides ſola iustificat: ſed fides quae iusti<g ref="char:EOLhyphen"/>ficat, non eſt ſola.</note> as a good Tree good fruits. It <hi>works by love,</hi> Gal. 5.6. and love is a laborious thing, 1 Cor. 13.4.7. No fire without light and warmth, no faith without love and good works: Every branch in Chriſt bringeth forth good fruit.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, it is a <hi>Popiſh ſpirit,</hi> that makes ſuch a jumbling of faith and charity; which are ever to be <hi>distinguiſhed,</hi> though not <hi>ſe<g ref="char:EOLhyphen"/>parated;</hi> Leave each his owne work and place, and both are glo<g ref="char:EOLhyphen"/>rious; and whereas other compa<g ref="char:EOLhyphen"/>riſons are <hi>odious</hi> theſe moſt. Or it is an <hi>ignorant ſpirit,</hi> which knows not what the maine tye is between God and a ſoule now fallen into ſinne, nor how we come to God by Chriſt alone, and how we are ju<g ref="char:EOLhyphen"/>ſtified freely by grace, which faith
+<pb n="83" facs="tcp:55467:49"/>
+appropriateth: al our preſent adhe<g ref="char:EOLhyphen"/>rence to God is by faith, hereafter by ſight and fruition. Or laſtly, it is a <hi>prophane ſpirit,</hi> of a man in love with his ſinne or worldly vanities, all for a preſent enjoyment; he will not ſtay for his happineſſe till hereafter as faith directeth: And to get a lively faith asketh more paines then he is willing to take; ſome adoe there is to try, examine, evidence, maintaine and increaſe faith, which the lazie Chriſtian will never endure.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <date>May 22. 1644.</date>
+            </p>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Joſeph Caryl.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
